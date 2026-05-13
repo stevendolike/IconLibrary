@@ -3,16 +3,15 @@ name: Update Emby-Icon JSON
 on:
   push:
     paths:
-      - 'Emby/**.png'   # 任何 Emby/ 下的 PNG 變動都觸發
+      - 'Emby/**.png'
   workflow_run:
     workflows: ["Sync Upstream Emby Icons"]
     types:
-      - completed        # 上游同步完成後也自動更新 JSON
+      - completed
 
 jobs:
   update-json:
     runs-on: ubuntu-latest
-    # workflow_run 觸發時只在成功時執行
     if: >
       github.event_name == 'push' ||
       (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
@@ -24,29 +23,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # workflow_run 觸發時要拉最新 commit（sync job 剛 push 進來的）
           ref: main
 
-      - name: Generate Emby-Icon.json
+      - name: Get today's date
+        id: date
+        run: echo "date=$(date '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Generate Emby-Icon.json and Emby-Icons.md
         run: |
-          REPO="stevendolike/IconLibrary"
-          BASE_URL="https://raw.githubusercontent.com/${REPO}/main/Emby"
-          TODAY=$(date '+%Y-%m-%d')
-
-          # 讀取現有 JSON 的 name mapping（filename -> name）
-          # 上游已有的保留原有 name，新增的用檔名（去掉副檔名）作為 name
-          EXISTING_JSON="Emby-Icon.json"
-
           python3 << 'PYEOF'
           import os, json, re
           from pathlib import Path
+          from collections import defaultdict
 
           repo = "stevendolike/IconLibrary"
           base_url = f"https://raw.githubusercontent.com/{repo}/main/Emby"
           today = os.environ.get("TODAY", "")
 
+          # ── 1. 讀取現有 name mapping ──────────────────────────────
           existing_path = Path("Emby-Icon.json")
-          existing_map = {}  # url_basename -> name
+          existing_map = {}  # filename -> name
 
           if existing_path.exists():
               with open(existing_path) as f:
@@ -55,50 +51,71 @@ jobs:
                   basename = entry["url"].rsplit("/", 1)[-1]
                   existing_map[basename] = entry["name"]
 
-          # 掃描 Emby/ 資料夾所有 PNG
+          # ── 2. 掃描 Emby/ 所有 PNG ────────────────────────────────
           emby_dir = Path("Emby")
           png_files = sorted(emby_dir.glob("*.png"), key=lambda p: p.name.lower())
 
           icons = []
           for png in png_files:
               filename = png.name
-              # 保留原有 name，否則用檔名推斷（去掉 -01/-02 等後綴和副檔名）
               if filename in existing_map:
                   name = existing_map[filename]
               else:
-                  stem = png.stem
-                  # 去掉結尾的 -數字 後綴，作為 display name
-                  name = re.sub(r'-\d+$', '', stem)
+                  name = re.sub(r'-\d+$', '', png.stem)
 
               icons.append({
                   "name": name,
                   "url": f"{base_url}/{filename}"
               })
 
+          # ── 3. 寫入 Emby-Icon.json ────────────────────────────────
           output = {
               "name": "Emby图标库",
               "description": f"stevendolike｜更新时间：{today}｜部分图标来源于 sooyaaabo/IconLibrary",
               "icons": icons
           }
-
           with open("Emby-Icon.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=4)
 
           print(f"Generated Emby-Icon.json with {len(icons)} icons")
+
+          # ── 4. 生成 Emby-Icons.md ─────────────────────────────────
+          # 按 name 分組，同名的並排顯示
+          groups = defaultdict(list)
+          for icon in icons:
+              groups[icon["name"]].append(icon["url"])
+
+          lines = []
+          lines.append("# Emby Icon Gallery\n")
+          lines.append(f"> 更新時間：{today}　｜　共 **{len(groups)}** 個圖標，**{len(icons)}** 個變體\n")
+          lines.append("---\n")
+          lines.append("| Name | Icons |")
+          lines.append("|------|-------|")
+
+          for name, urls in groups.items():
+              imgs = " ".join(
+                  f'<img src="{url}" width="60" title="{name}" />'
+                  for url in urls
+              )
+              lines.append(f"| `{name}` | {imgs} |")
+
+          lines.append("")
+          lines.append("---")
+          lines.append(f"*Auto-generated from [Emby-Icon.json](./Emby-Icon.json)*")
+
+          with open("Emby-Icons.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+
+          print(f"Generated Emby-Icons.md: {len(groups)} names, {len(icons)} total")
           PYEOF
         env:
           TODAY: ${{ steps.date.outputs.date }}
 
-      - name: Get today's date
-        id: date
-        run: echo "date=$(date '+%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-      - name: Commit updated JSON
+      - name: Commit JSON + MD
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Emby-Icon.json
-          # 只在有實際變動時才 commit
+          git add Emby-Icon.json Emby-Icons.md
           git diff --cached --quiet || \
-            git commit -m "chore: update Emby-Icon.json [$(date '+%Y-%m-%d')]"
+            git commit -m "chore: update icons & gallery [$(date '+%Y-%m-%d')]"
           git push

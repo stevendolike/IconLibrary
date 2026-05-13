@@ -1,0 +1,59 @@
+name: Sync Upstream Emby Icons
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 02:00（香港時間 10:00）
+  workflow_dispatch:      # 支援手動觸發
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout my repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch upstream Emby folder file list
+        id: fetch_list
+        run: |
+          echo "Fetching upstream file list..."
+          curl -s "https://api.github.com/repos/sooyaaabo/IconLibrary/contents/Emby" \
+            -H "Accept: application/vnd.github+json" \
+            > /tmp/upstream_files.json
+
+          # 過濾出 .png 檔案名稱
+          jq -r '.[] | select(.name | endswith(".png")) | .name' /tmp/upstream_files.json \
+            > /tmp/upstream_png_list.txt
+
+          echo "Found $(wc -l < /tmp/upstream_png_list.txt) PNG files upstream"
+
+      - name: Download new icons from upstream
+        run: |
+          mkdir -p Emby
+          NEW_COUNT=0
+
+          while IFS= read -r filename; do
+            if [ ! -f "Emby/$filename" ]; then
+              echo "Downloading: $filename"
+              curl -sL \
+                "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/$filename" \
+                -o "Emby/$filename"
+              NEW_COUNT=$((NEW_COUNT + 1))
+            fi
+          done < /tmp/upstream_png_list.txt
+
+          echo "NEW_COUNT=$NEW_COUNT" >> $GITHUB_ENV
+          echo "Downloaded $NEW_COUNT new icons"
+
+      - name: Commit and push if there are new icons
+        if: env.NEW_COUNT != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Emby/
+          git commit -m "chore: sync ${{ env.NEW_COUNT }} new icon(s) from upstream [$(date '+%Y-%m-%d')]"
+          git push

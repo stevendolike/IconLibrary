@@ -1,83 +1,7 @@
 {
-    "name": "自用Emby图标库",
-    "description": "更新时间：2026-05-10 12:00",
+    "name": "Emby图标库",
+    "description": "stevendolike｜更新时间：2026-05-13｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
-        {
-            "name": "AList",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AList.png"
-        },
-        {
-            "name": "OpenList",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OpenList.png"
-        },
-        {
-            "name": "Emby",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Emby.png"
-        },
-        {
-            "name": "Jellyfin",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfin.png"
-        },
-        {
-            "name": "Plex",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Plex.png"
-        },
-        {
-            "name": "115",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/115.png"
-        },
-        {
-            "name": "123",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/123.png"
-        },
-        {
-            "name": "Alipan",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Alipan.png"
-        },
-        {
-            "name": "BaiduNetDisk",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiduNetDisk.png"
-        },
-        {
-            "name": "GoogleDrive",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GoogleDrive.png"
-        },
-        {
-            "name": "OneDrive",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OneDrive.png"
-        },
-        {
-            "name": "PikPak",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PikPak.png"
-        },
-        {
-            "name": "fnOS",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/fnOS.png"
-        },
-        {
-            "name": "RottenTomatoes Fresh",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png"
-        },
-        {
-            "name": "RottenTomatoes Rotten",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png"
-        },
-        {
-            "name": "RottenTomatoes PositiveAudience",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png"
-        },
-        {
-            "name": "RottenTomatoes NegativeAudience",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png"
-        },
-        {
-            "name": "Emby",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DIYEmby-01.png"
-        },
-        {
-            "name": "Emby",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DIYEmby-02.png"
-        },
         {
             "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-01.png"
@@ -93,6 +17,14 @@
         {
             "name": "105° Ciallo",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-04.png"
+        },
+        {
+            "name": "115",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/115.png"
+        },
+        {
+            "name": "123",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/123.png"
         },
         {
             "name": "404NotFound",
@@ -121,6 +53,14 @@
         {
             "name": "Aladdin ALaDing",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-02.png"
+        },
+        {
+            "name": "Alipan",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Alipan.png"
+        },
+        {
+            "name": "AList",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AList.png"
         },
         {
             "name": "AlphaTVOmega",
@@ -239,16 +179,12 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png"
         },
         {
+            "name": "BaiduNetDisk",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiduNetDisk.png"
+        },
+        {
             "name": "BBFreeFilm BeeBI",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png"
-        },
-        {
-            "name": "BTYIN EFu",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-01.png"
-        },
-        {
-            "name": "BTYIN EFu",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-02.png"
         },
         {
             "name": "BuChiXiangCai BCXC",
@@ -265,6 +201,14 @@
         {
             "name": "BuChiXiangCai BCXC",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-04.png"
+        },
+        {
+            "name": "BTYIN EFu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-01.png"
+        },
+        {
+            "name": "BTYIN EFu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-02.png"
         },
         {
             "name": "CatCat MaoMao",
@@ -443,6 +387,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DimLight.png"
         },
         {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DIYEmby-01.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DIYEmby-02.png"
+        },
+        {
             "name": "Doubon",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Doubon-01.png"
         },
@@ -541,6 +493,10 @@
         {
             "name": "Edge",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EdgeEmby.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Emby.png"
         },
         {
             "name": "EmbyClub MaoXiong",
@@ -659,6 +615,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FJYEmby.png"
         },
         {
+            "name": "fnOS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/fnOS.png"
+        },
+        {
             "name": "FuFu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-01.png"
         },
@@ -689,6 +649,10 @@
         {
             "name": "Gimy JuMi XinYingShiJie",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GimyEmby.png"
+        },
+        {
+            "name": "GoogleDrive",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GoogleDrive.png"
         },
         {
             "name": "GouSheng",
@@ -832,6 +796,10 @@
         },
         {
             "name": "ichinosekotomifan",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ichinosekotomifan-01.png"
+        },
+        {
+            "name": "ichinosekotomifan",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ichinosekotomifan.png"
         },
         {
@@ -853,6 +821,10 @@
         {
             "name": "Iris YuanWei",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-04.png"
+        },
+        {
+            "name": "Jellyfin",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfin.png"
         },
         {
             "name": "Jellyfish+ ShuiMu",
@@ -1271,12 +1243,12 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-03.png"
         },
         {
-            "name": "Misty",
-            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty.png"
-        },
-        {
             "name": "Misty+",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty+.png"
+        },
+        {
+            "name": "Misty",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty.png"
         },
         {
             "name": "MoMei",
@@ -1471,8 +1443,16 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-03.png"
         },
         {
+            "name": "OneDrive",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OneDrive.png"
+        },
+        {
             "name": "Onyra",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OnyraEmby.png"
+        },
+        {
+            "name": "OpenList",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OpenList.png"
         },
         {
             "name": "OrigamiArt ZheZhi",
@@ -1531,6 +1511,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-03.png"
         },
         {
+            "name": "PikPak",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PikPak.png"
+        },
+        {
             "name": "PiliPili",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-01.png"
         },
@@ -1569,6 +1553,10 @@
         {
             "name": "PlayZ",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PlayzEmby-02.png"
+        },
+        {
+            "name": "Plex",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Plex.png"
         },
         {
             "name": "Plumber",
@@ -1729,6 +1717,22 @@
         {
             "name": "Roc",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-08.png"
+        },
+        {
+            "name": "RottenTomatoes Fresh",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png"
+        },
+        {
+            "name": "RottenTomatoes NegativeAudience",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png"
+        },
+        {
+            "name": "RottenTomatoes PositiveAudience",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png"
+        },
+        {
+            "name": "RottenTomatoes Rotten",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png"
         },
         {
             "name": "RuJi",

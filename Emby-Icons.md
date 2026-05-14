@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-13　｜　共 **231** 個圖標，**571** 個變體
+> 更新時間：2026-05-14　｜　共 **233** 個圖標，**575** 個變體
 
 ---
 
@@ -22,6 +22,7 @@
 | `AuroraMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-01.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-02.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-03.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-04.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-05.png" width="60" title="AuroraMedia" /> |
 | `AWATV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-01.png" width="60" title="AWATV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png" width="60" title="AWATV" /> |
 | `BaiduNetDisk` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiduNetDisk.png" width="60" title="BaiduNetDisk" /> |
+| `Banana` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Banana.png" width="60" title="Banana" /> |
 | `BBFreeFilm BeeBI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png" width="60" title="BBFreeFilm BeeBI" /> |
 | `BuChiXiangCai BCXC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-01.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-02.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-03.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-04.png" width="60" title="BuChiXiangCai BCXC" /> |
 | `BTYIN EFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-01.png" width="60" title="BTYIN EFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-02.png" width="60" title="BTYIN EFu" /> |
@@ -214,6 +215,7 @@
 | `WorldLine ShouShuShiJieXian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WorldLine-01.png" width="60" title="WorldLine ShouShuShiJieXian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WorldLine-02.png" width="60" title="WorldLine ShouShuShiJieXian" /> |
 | `XiaoXiaMi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-01.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-02.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-03.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-04.png" width="60" title="XiaoXiaMi" /> |
 | `XiaoZhuXuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoZhuXuan.png" width="60" title="XiaoZhuXuan" /> |
+| `XiatianEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-01.png" width="60" title="XiatianEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-02.png" width="60" title="XiatianEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-03.png" width="60" title="XiatianEmby" /> |
 | `XiGua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiGua.png" width="60" title="XiGua" /> |
 | `XueShan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XueShan-01.png" width="60" title="XueShan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XueShan-02.png" width="60" title="XueShan" /> |
 | `XYing XingYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XYingEmby-01.png" width="60" title="XYing XingYing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XYingEmby-02.png" width="60" title="XYing XingYing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XYingEmby-03.png" width="60" title="XYing XingYing" /> |

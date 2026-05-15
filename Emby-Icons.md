@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-14　｜　共 **233** 個圖標，**575** 個變體
+> 更新時間：2026-05-15　｜　共 **236** 個圖標，**578** 個變體
 
 ---
 
@@ -27,6 +27,7 @@
 | `BuChiXiangCai BCXC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-01.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-02.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-03.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-04.png" width="60" title="BuChiXiangCai BCXC" /> |
 | `BTYIN EFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-01.png" width="60" title="BTYIN EFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-02.png" width="60" title="BTYIN EFu" /> |
 | `CatCat MaoMao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CatCatEmby.png" width="60" title="CatCat MaoMao" /> |
+| `CatPornEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CatPornEmby.png" width="60" title="CatPornEmby" /> |
 | `CC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-01.png" width="60" title="CC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-02.png" width="60" title="CC" /> |
 | `ChaCanTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaCanTing.png" width="60" title="ChaCanTing" /> |
 | `CharonTV KaRong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-01.png" width="60" title="CharonTV KaRong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-02.png" width="60" title="CharonTV KaRong" /> |
@@ -127,6 +128,7 @@
 | `MengDie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MengDie.png" width="60" title="MengDie" /> |
 | `Meowfly FeiLeGeMiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-01.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-02.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-03.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-04.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-05.png" width="60" title="Meowfly FeiLeGeMiao" /> |
 | `MICU` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MICU.png" width="60" title="MICU" /> |
+| `Miorina` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Miorina.png" width="60" title="Miorina" /> |
 | `Mirai` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MiraiEmby-01.png" width="60" title="Mirai" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MiraiEmby-02.png" width="60" title="Mirai" /> |
 | `MisakaF` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisakaF.png" width="60" title="MisakaF" /> |
 | `MisayaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-01.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-02.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-03.png" width="60" title="MisayaMedia" /> |
@@ -230,6 +232,7 @@
 | `YourFYTing FangYingTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-01.png" width="60" title="YourFYTing FangYingTing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-02.png" width="60" title="YourFYTing FangYingTing" /> |
 | `YueZhiXuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-01.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-02.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-03.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-04.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-05.png" width="60" title="YueZhiXuan" /> |
 | `Yum` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YumEmby.png" width="60" title="Yum" /> |
+| `YusenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby.png" width="60" title="YusenEmby" /> |
 | `ZhenYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhenYing.png" width="60" title="ZhenYing" /> |
 | `ZhouSanWan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-01.png" width="60" title="ZhouSanWan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-02.png" width="60" title="ZhouSanWan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-03.png" width="60" title="ZhouSanWan" /> |
 | `ZhuJiuYingHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhuJiuYingHua-01.png" width="60" title="ZhuJiuYingHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhuJiuYingHua-02.png" width="60" title="ZhuJiuYingHua" /> |

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-15　｜　共 **236** 個圖標，**578** 個變體
+> 更新時間：2026-05-16　｜　共 **236** 個圖標，**580** 個變體
 
 ---
 
@@ -232,7 +232,7 @@
 | `YourFYTing FangYingTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-01.png" width="60" title="YourFYTing FangYingTing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-02.png" width="60" title="YourFYTing FangYingTing" /> |
 | `YueZhiXuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-01.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-02.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-03.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-04.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-05.png" width="60" title="YueZhiXuan" /> |
 | `Yum` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YumEmby.png" width="60" title="Yum" /> |
-| `YusenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby.png" width="60" title="YusenEmby" /> |
+| `YusenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby-01.png" width="60" title="YusenEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby-02.png" width="60" title="YusenEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby.png" width="60" title="YusenEmby" /> |
 | `ZhenYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhenYing.png" width="60" title="ZhenYing" /> |
 | `ZhouSanWan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-01.png" width="60" title="ZhouSanWan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-02.png" width="60" title="ZhouSanWan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhouSanWan-03.png" width="60" title="ZhouSanWan" /> |
 | `ZhuJiuYingHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhuJiuYingHua-01.png" width="60" title="ZhuJiuYingHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZhuJiuYingHua-02.png" width="60" title="ZhuJiuYingHua" /> |

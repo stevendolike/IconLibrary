@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-18　｜　共 **238** 個圖標，**585** 個變體
+> 更新時間：2026-05-18　｜　共 **585** 個圖標
 
 ---
 
@@ -19,10 +19,7 @@
 | `OneDrive` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OneDrive.png" width="60" title="OneDrive" /> |
 | `PikPak` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PikPak.png" width="60" title="PikPak" /> |
 | `fnOS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/fnOS.png" width="60" title="fnOS" /> |
-| `RottenTomatoes Fresh` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png" width="60" title="RottenTomatoes Fresh" /> |
-| `RottenTomatoes Rotten` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png" width="60" title="RottenTomatoes Rotten" /> |
-| `RottenTomatoes PositiveAudience` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png" width="60" title="RottenTomatoes PositiveAudience" /> |
-| `RottenTomatoes NegativeAudience` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png" width="60" title="RottenTomatoes NegativeAudience" /> |
+| `RottenTomatoes` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png" width="60" title="RottenTomatoes Fresh" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png" width="60" title="RottenTomatoes Rotten" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png" width="60" title="RottenTomatoes PositiveAudience" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png" width="60" title="RottenTomatoes NegativeAudience" /> |
 | `105° Ciallo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-01.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-02.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-03.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-04.png" width="60" title="105° Ciallo" /> |
 | `404NotFound` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-01.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-02.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-03.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-04.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-05.png" width="60" title="404NotFound" /> |
 | `Aladdin ALaDing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-01.png" width="60" title="Aladdin ALaDing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-02.png" width="60" title="Aladdin ALaDing" /> |

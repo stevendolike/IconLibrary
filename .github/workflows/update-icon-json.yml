@@ -112,32 +112,30 @@ jobs:
           print(f"Generated Emby-Icon.json: {len(icons)} icons ({len(PINNED)} pinned + {len(rest)} others)")
 
           # ── 6. 生成 Emby-Icons.md ─────────────────────────────────
-          groups = defaultdict(list)
-          for icon in icons:
-              groups[icon["name"]].append(icon["url"])
-
-          # 保持 MD 的順序與 JSON 一致（用 insertion-order dict）
+          # 保持順序，同名合併；RottenTomatoes 系列合併成一行
           ordered_groups = {}
           for icon in icons:
               n = icon["name"]
-              if n not in ordered_groups:
-                  ordered_groups[n] = []
-              if icon["url"] not in ordered_groups[n]:
-                  ordered_groups[n].append(icon["url"])
+              # RottenTomatoes 開頭的統一歸到 "RottenTomatoes" 這個 display key
+              display_key = "RottenTomatoes" if n.startswith("RottenTomatoes") else n
+              if display_key not in ordered_groups:
+                  ordered_groups[display_key] = []
+              if icon["url"] not in ordered_groups[display_key]:
+                  ordered_groups[display_key].append((n, icon["url"]))
 
           lines = []
           lines.append("# Emby Icon Gallery\n")
-          lines.append(f"> 更新時間：{today}　｜　共 **{len(ordered_groups)}** 個圖標，**{len(icons)}** 個變體\n")
+          lines.append(f"> 更新時間：{today}　｜　共 **{len(icons)}** 個圖標\n")
           lines.append("---\n")
           lines.append("| Name | Icons |")
           lines.append("|------|-------|")
 
-          for name, urls in ordered_groups.items():
+          for display_key, entries in ordered_groups.items():
               imgs = " ".join(
                   f'<img src="{url}" width="60" title="{name}" />'
-                  for url in urls
+                  for name, url in entries
               )
-              lines.append(f"| `{name}` | {imgs} |")
+              lines.append(f"| `{display_key}` | {imgs} |")
 
           lines.append("")
           lines.append("---")

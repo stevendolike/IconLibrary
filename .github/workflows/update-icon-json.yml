@@ -40,6 +40,30 @@ jobs:
           base_url = f"https://raw.githubusercontent.com/{repo}/main/Emby"
           today = os.environ.get("TODAY", "")
 
+          # ── 置頂圖標清單（依序排列，檔名為 key）────────────────────
+          PINNED = [
+              ("AList",                          "AList.png"),
+              ("OpenList",                       "OpenList.png"),
+              ("Emby",                           "Emby.png"),
+              ("Jellyfin",                       "Jellyfin.png"),
+              ("Plex",                           "Plex.png"),
+              ("115",                            "115.png"),
+              ("123",                            "123.png"),
+              ("Alipan",                         "Alipan.png"),
+              ("BaiduNetDisk",                   "BaiduNetDisk.png"),
+              ("GoogleDrive",                    "GoogleDrive.png"),
+              ("OneDrive",                       "OneDrive.png"),
+              ("PikPak",                         "PikPak.png"),
+              ("fnOS",                           "fnOS.png"),
+              ("RottenTomatoes Fresh",           "RottenTomatoes_Fresh.png"),
+              ("RottenTomatoes Rotten",          "RottenTomatoes_Rotten.png"),
+              ("RottenTomatoes PositiveAudience","RottenTomatoes_PositiveAudience.png"),
+              ("RottenTomatoes NegativeAudience","RottenTomatoes_NegativeAudience.png"),
+              ("Emby",                           "DIYEmby-01.png"),
+              ("Emby",                           "DIYEmby-02.png"),
+          ]
+          pinned_filenames = {filename for _, filename in PINNED}
+
           # ── 1. 讀取現有 name mapping ──────────────────────────────
           existing_path = Path("Emby-Icon.json")
           existing_map = {}  # filename -> name
@@ -53,22 +77,30 @@ jobs:
 
           # ── 2. 掃描 Emby/ 所有 PNG ────────────────────────────────
           emby_dir = Path("Emby")
-          png_files = sorted(emby_dir.glob("*.png"), key=lambda p: p.name.lower())
+          all_pngs = {p.name for p in emby_dir.glob("*.png")}
 
+          # ── 3. 置頂部分（只加入實際存在的檔案）──────────────────────
           icons = []
-          for png in png_files:
-              filename = png.name
+          for name, filename in PINNED:
+              if filename in all_pngs:
+                  icons.append({
+                      "name": name,
+                      "url": f"{base_url}/{filename}"
+                  })
+
+          # ── 4. 其餘按字母排序接在後面 ─────────────────────────────
+          rest = sorted(all_pngs - pinned_filenames, key=lambda s: s.lower())
+          for filename in rest:
               if filename in existing_map:
                   name = existing_map[filename]
               else:
-                  name = re.sub(r'-\d+$', '', png.stem)
-
+                  name = re.sub(r'-\d+$', '', Path(filename).stem)
               icons.append({
                   "name": name,
                   "url": f"{base_url}/{filename}"
               })
 
-          # ── 3. 寫入 Emby-Icon.json ────────────────────────────────
+          # ── 5. 寫入 Emby-Icon.json ────────────────────────────────
           output = {
               "name": "Emby图标库",
               "description": f"stevendolike｜更新时间：{today}｜部分图标来源于 sooyaaabo/IconLibrary",
@@ -77,22 +109,30 @@ jobs:
           with open("Emby-Icon.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=4)
 
-          print(f"Generated Emby-Icon.json with {len(icons)} icons")
+          print(f"Generated Emby-Icon.json: {len(icons)} icons ({len(PINNED)} pinned + {len(rest)} others)")
 
-          # ── 4. 生成 Emby-Icons.md ─────────────────────────────────
-          # 按 name 分組，同名的並排顯示
+          # ── 6. 生成 Emby-Icons.md ─────────────────────────────────
           groups = defaultdict(list)
           for icon in icons:
               groups[icon["name"]].append(icon["url"])
 
+          # 保持 MD 的順序與 JSON 一致（用 insertion-order dict）
+          ordered_groups = {}
+          for icon in icons:
+              n = icon["name"]
+              if n not in ordered_groups:
+                  ordered_groups[n] = []
+              if icon["url"] not in ordered_groups[n]:
+                  ordered_groups[n].append(icon["url"])
+
           lines = []
           lines.append("# Emby Icon Gallery\n")
-          lines.append(f"> 更新時間：{today}　｜　共 **{len(groups)}** 個圖標，**{len(icons)}** 個變體\n")
+          lines.append(f"> 更新時間：{today}　｜　共 **{len(ordered_groups)}** 個圖標，**{len(icons)}** 個變體\n")
           lines.append("---\n")
           lines.append("| Name | Icons |")
           lines.append("|------|-------|")
 
-          for name, urls in groups.items():
+          for name, urls in ordered_groups.items():
               imgs = " ".join(
                   f'<img src="{url}" width="60" title="{name}" />'
                   for url in urls
@@ -106,7 +146,7 @@ jobs:
           with open("Emby-Icons.md", "w", encoding="utf-8") as f:
               f.write("\n".join(lines))
 
-          print(f"Generated Emby-Icons.md: {len(groups)} names, {len(icons)} total")
+          print(f"Generated Emby-Icons.md: {len(ordered_groups)} names")
           PYEOF
         env:
           TODAY: ${{ steps.date.outputs.date }}

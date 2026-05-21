@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-05-20｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-05-21｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -699,6 +699,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GimyEmby.png"
         },
         {
+            "name": "GingaRessha",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-01.png"
+        },
+        {
+            "name": "GingaRessha",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-02.png"
+        },
+        {
             "name": "GouSheng",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GouSheng-01.png"
         },
@@ -841,6 +849,18 @@
         {
             "name": "hx-emby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/hx-emby.png"
+        },
+        {
+            "name": "HXDEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-01.png"
+        },
+        {
+            "name": "HXDEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-02.png"
+        },
+        {
+            "name": "HXDEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-03.png"
         },
         {
             "name": "ichinosekotomifan",
@@ -2049,6 +2069,30 @@
         {
             "name": "Violet ZiLuoLan",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VioletEmby.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-01.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-02.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-03.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-04.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-05.png"
+        },
+        {
+            "name": "WalnutEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-06.png"
         },
         {
             "name": "We",

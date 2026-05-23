@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-05-22｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-05-23｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1491,6 +1491,22 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NiuBi-04.png"
         },
         {
+            "name": "NoxEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-01.png"
+        },
+        {
+            "name": "NoxEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-02.png"
+        },
+        {
+            "name": "NoxEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-03.png"
+        },
+        {
+            "name": "NoxEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-04.png"
+        },
+        {
             "name": "NSFW",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NSFWEmby-01.png"
         },
@@ -1801,6 +1817,10 @@
         {
             "name": "SadChick BeiShangXiaoJi",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SadChick-02.png"
+        },
+        {
+            "name": "SakuraChiritei",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SakuraChiritei.png"
         },
         {
             "name": "SaoDu",

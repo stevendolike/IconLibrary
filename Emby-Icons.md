@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-24　｜　共 **601** 個圖標
+> 更新時間：2026-05-25　｜　共 **603** 個圖標
 
 ---
 
@@ -184,7 +184,7 @@
 | `Roc` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-01.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-02.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-03.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-04.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-05.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-06.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-07.png" width="60" title="Roc" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RocEmby-08.png" width="60" title="Roc" /> |
 | `RuJi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RujiEmby-01.png" width="60" title="RuJi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RujiEmby-02.png" width="60" title="RuJi" /> |
 | `SadChick BeiShangXiaoJi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SadChick-01.png" width="60" title="SadChick BeiShangXiaoJi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SadChick-02.png" width="60" title="SadChick BeiShangXiaoJi" /> |
-| `SakuraChiritei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SakuraChiritei.png" width="60" title="SakuraChiritei" /> |
+| `SakuraChiritei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SakuraChiritei-01.png" width="60" title="SakuraChiritei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SakuraChiritei-02.png" width="60" title="SakuraChiritei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SakuraChiritei.png" width="60" title="SakuraChiritei" /> |
 | `SaoDu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaoDu.png" width="60" title="SaoDu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaoDuLite.png" width="60" title="SaoDu" /> |
 | `SaturDayLite+ SDL+` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite+.png" width="60" title="SaturDayLite+ SDL+" /> |
 | `SaturDayLite SDL` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite-01.png" width="60" title="SaturDayLite SDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite-02.png" width="60" title="SaturDayLite SDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite-03.png" width="60" title="SaturDayLite SDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite-04.png" width="60" title="SaturDayLite SDL" /> |

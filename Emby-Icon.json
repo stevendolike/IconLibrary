@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-05-26｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-05-27｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1179,6 +1179,18 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LunarisVault-03.png"
         },
         {
+            "name": "LunarisVault",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LunarisVault-04.png"
+        },
+        {
+            "name": "LunarisVault",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LunarisVault-05.png"
+        },
+        {
+            "name": "LunarisVault",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LunarisVault-06.png"
+        },
+        {
             "name": "LustfulBoy",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LustfulBoy-01.png"
         },
@@ -1857,6 +1869,10 @@
         {
             "name": "SaturDayLite SDL",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayLite-04.png"
+        },
+        {
+            "name": "SaturDayNext",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SaturDayNext.png"
         },
         {
             "name": "SaturDayPremium SDP",

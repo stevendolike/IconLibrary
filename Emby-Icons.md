@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-27　｜　共 **607** 個圖標
+> 更新時間：2026-05-28　｜　共 **609** 個圖標
 
 ---
 
@@ -22,6 +22,7 @@
 | `RottenTomatoes` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png" width="60" title="RottenTomatoes Fresh" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png" width="60" title="RottenTomatoes Rotten" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png" width="60" title="RottenTomatoes PositiveAudience" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png" width="60" title="RottenTomatoes NegativeAudience" /> |
 | `105° Ciallo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-01.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-02.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-03.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-04.png" width="60" title="105° Ciallo" /> |
 | `404NotFound` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-01.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-02.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-03.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-04.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-05.png" width="60" title="404NotFound" /> |
+| `AiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AiEmby.png" width="60" title="AiEmby" /> |
 | `Aladdin ALaDing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-01.png" width="60" title="Aladdin ALaDing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-02.png" width="60" title="Aladdin ALaDing" /> |
 | `AlphaTVOmega` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOmega.png" width="60" title="AlphaTVOmega" /> |
 | `AlphaTVOversea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-01.png" width="60" title="AlphaTVOversea" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-02.png" width="60" title="AlphaTVOversea" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-03.png" width="60" title="AlphaTVOversea" /> |
@@ -35,6 +36,7 @@
 | `BBFreeFilm BeeBI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png" width="60" title="BBFreeFilm BeeBI" /> |
 | `BuChiXiangCai BCXC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-01.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-02.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-03.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-04.png" width="60" title="BuChiXiangCai BCXC" /> |
 | `BTYIN EFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-01.png" width="60" title="BTYIN EFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BTYIN-02.png" width="60" title="BTYIN EFu" /> |
+| `BuBingYingDi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BuBingYingDi.png" width="60" title="BuBingYingDi" /> |
 | `CatCat MaoMao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CatCatEmby.png" width="60" title="CatCat MaoMao" /> |
 | `CatPornEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CatPornEmby.png" width="60" title="CatPornEmby" /> |
 | `CC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-01.png" width="60" title="CC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-02.png" width="60" title="CC" /> |

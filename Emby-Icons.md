@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-05-31　｜　共 **615** 個圖標
+> 更新時間：2026-06-01　｜　共 **616** 個圖標
 
 ---
 
@@ -134,6 +134,7 @@
 | `Lyrebird` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-01.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-02.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-03.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-04.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-05.png" width="60" title="Lyrebird" /> |
 | `MaoYan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoyanEmby-01.png" width="60" title="MaoYan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoyanEmby-02.png" width="60" title="MaoYan" /> |
 | `MaiDangLao MDL` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-01.png" width="60" title="MaiDangLao MDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-02.png" width="60" title="MaiDangLao MDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-03.png" width="60" title="MaiDangLao MDL" /> |
+| `MDLEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-04.png" width="60" title="MDLEmby" /> |
 | `MeatHub` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MeatHub.png" width="60" title="MeatHub" /> |
 | `ME BAVA` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-01.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-02.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-03.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-04.png" width="60" title="ME BAVA" /> |
 | `ME` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-01.png" width="60" title="ME" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-02.png" width="60" title="ME" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-03.png" width="60" title="ME" /> |

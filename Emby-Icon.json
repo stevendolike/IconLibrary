@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-06-01｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-06-02｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1257,6 +1257,22 @@
         {
             "name": "Lyrebird",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-05.png"
+        },
+        {
+            "name": "MaoWoYingShi",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-01.png"
+        },
+        {
+            "name": "MaoWoYingShi",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-02.png"
+        },
+        {
+            "name": "MaoWoYingShi",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-03.png"
+        },
+        {
+            "name": "MaoWoYingShi",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-04.png"
         },
         {
             "name": "MaoYan",

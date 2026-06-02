@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-01　｜　共 **616** 個圖標
+> 更新時間：2026-06-02　｜　共 **620** 個圖標
 
 ---
 
@@ -132,6 +132,7 @@
 | `Luxrealm` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Luxrealm-01.png" width="60" title="Luxrealm" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Luxrealm-02.png" width="60" title="Luxrealm" /> |
 | `LXS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LXSEmby.png" width="60" title="LXS" /> |
 | `Lyrebird` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-01.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-02.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-03.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-04.png" width="60" title="Lyrebird" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lyrebird-05.png" width="60" title="Lyrebird" /> |
+| `MaoWoYingShi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-01.png" width="60" title="MaoWoYingShi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-02.png" width="60" title="MaoWoYingShi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-03.png" width="60" title="MaoWoYingShi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-04.png" width="60" title="MaoWoYingShi" /> |
 | `MaoYan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoyanEmby-01.png" width="60" title="MaoYan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoyanEmby-02.png" width="60" title="MaoYan" /> |
 | `MaiDangLao MDL` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-01.png" width="60" title="MaiDangLao MDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-02.png" width="60" title="MaiDangLao MDL" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-03.png" width="60" title="MaiDangLao MDL" /> |
 | `MDLEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MDLEmby-04.png" width="60" title="MDLEmby" /> |

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-05　｜　共 **627** 個圖標
+> 更新時間：2026-06-06　｜　共 **630** 個圖標
 
 ---
 
@@ -209,8 +209,10 @@
 | `SMLW ShenMiLiWu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-01.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-02.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-03.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-04.png" width="60" title="SMLW ShenMiLiWu" /> |
 | `SNTPMediaLite` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-01.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-02.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-03.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-04.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-05.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-06.png" width="60" title="SNTPMediaLite" /> |
 | `Star` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-01.png" width="60" title="Star" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-02.png" width="60" title="Star" /> |
-| `StarEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-03.png" width="60" title="StarEmby" /> |
+| `StarEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-03.png" width="60" title="StarEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-04.png" width="60" title="StarEmby" /> |
+| `StarHarn` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarHarn.png" width="60" title="StarHarn" /> |
 | `StarSho XingShuo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-01.png" width="60" title="StarSho XingShuo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-02.png" width="60" title="StarSho XingShuo" /> |
+| `StarSho` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho.png" width="60" title="StarSho" /> |
 | `TanHuaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png" width="60" title="TanHuaTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-02.png" width="60" title="TanHuaTV" /> |
 | `TanHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-03.png" width="60" title="TanHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-04.png" width="60" title="TanHua" /> |
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |

@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-06-07｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-06-08｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -2103,6 +2103,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho.png"
         },
         {
+            "name": "StevenEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StevenEmby.png"
+        },
+        {
             "name": "TanHuaTV",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png"
         },
@@ -2361,6 +2365,10 @@
         {
             "name": "YiMeng",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png"
+        },
+        {
+            "name": "YinXingMaiMing",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png"
         },
         {
             "name": "YiShang",

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-07　｜　共 **630** 個圖標
+> 更新時間：2026-06-08　｜　共 **632** 個圖標
 
 ---
 
@@ -213,6 +213,7 @@
 | `StarHarn` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarHarn.png" width="60" title="StarHarn" /> |
 | `StarSho XingShuo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-01.png" width="60" title="StarSho XingShuo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-02.png" width="60" title="StarSho XingShuo" /> |
 | `StarSho` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho.png" width="60" title="StarSho" /> |
+| `StevenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StevenEmby.png" width="60" title="StevenEmby" /> |
 | `TanHuaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png" width="60" title="TanHuaTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-02.png" width="60" title="TanHuaTV" /> |
 | `TanHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-03.png" width="60" title="TanHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-04.png" width="60" title="TanHua" /> |
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |
@@ -241,6 +242,7 @@
 | `XYZ XiaoYiZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/xyzemby-01.png" width="60" title="XYZ XiaoYiZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/xyzemby-02.png" width="60" title="XYZ XiaoYiZi" /> |
 | `YeZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-01.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-02.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-03.png" width="60" title="YeZi" /> |
 | `YiMeng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png" width="60" title="YiMeng" /> |
+| `YinXingMaiMing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png" width="60" title="YinXingMaiMing" /> |
 | `YiShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiShang.png" width="60" title="YiShang" /> |
 | `Yomo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-01.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-02.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-03.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-04.png" width="60" title="Yomo" /> |
 | `Youno` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-01.png" width="60" title="Youno" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-02.png" width="60" title="Youno" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-03.png" width="60" title="Youno" /> |

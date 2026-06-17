@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-16　｜　共 **632** 個圖標
+> 更新時間：2026-06-17　｜　共 **635** 個圖標
 
 ---
 
@@ -73,7 +73,7 @@
 | `EmbyPub ZhongDianZhan ZDZ` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPub.png" width="60" title="EmbyPub ZhongDianZhan ZDZ" /> |
 | `emos` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/emos-01.png" width="60" title="emos" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/emos-02.png" width="60" title="emos" /> |
 | `empn` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/empn-01.png" width="60" title="empn" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/empn-02.png" width="60" title="empn" /> |
-| `EOOS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS.png" width="60" title="EOOS" /> |
+| `EOOS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-01.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-02.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-03.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS.png" width="60" title="EOOS" /> |
 | `ETFLIX` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-01.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-02.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-03.png" width="60" title="ETFLIX" /> |
 | `FeiNiu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-01.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-02.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-03.png" width="60" title="FeiNiu" /> |
 | `FeiYueCaiHong Rainbow` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-01.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-02.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-03.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-04.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-05.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-06.png" width="60" title="FeiYueCaiHong Rainbow" /> |

@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-06-16｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-06-17｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -637,6 +637,18 @@
         {
             "name": "empn",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/empn-02.png"
+        },
+        {
+            "name": "EOOS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-01.png"
+        },
+        {
+            "name": "EOOS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-02.png"
+        },
+        {
+            "name": "EOOS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-03.png"
         },
         {
             "name": "EOOS",

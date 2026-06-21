@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-06-20｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-06-21｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -703,8 +703,32 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-06.png"
         },
         {
+            "name": "FeiYueYinHe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-01.png"
+        },
+        {
+            "name": "FeiYueYinHe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-02.png"
+        },
+        {
             "name": "FeiYueYinHe YHEmby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe.png"
+        },
+        {
+            "name": "Fiti",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Fiti.png"
+        },
+        {
+            "name": "FitiPro",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiPro.png"
+        },
+        {
+            "name": "FitiProCDN",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProCDN.png"
+        },
+        {
+            "name": "FitiProOversea",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProOversea.png"
         },
         {
             "name": "FJY",

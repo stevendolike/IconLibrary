@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-23　｜　共 **643** 個圖標
+> 更新時間：2026-06-24　｜　共 **644** 個圖標
 
 ---
 
@@ -178,6 +178,7 @@
 | `OrigamiArt ZheZhi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-01.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-02.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-03.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-04.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-05.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-06.png" width="60" title="OrigamiArt ZheZhi" /> |
 | `OwnEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OwnEmby.png" width="60" title="OwnEmby" /> |
 | `PandaTV XiongMao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-01.png" width="60" title="PandaTV XiongMao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-02.png" width="60" title="PandaTV XiongMao" /> |
+| `PandaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-03.png" width="60" title="PandaTV" /> |
 | `PaoLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PaoluEmby-01.png" width="60" title="PaoLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PaoluEmby-02.png" width="60" title="PaoLu" /> |
 | `Paul` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Paul.png" width="60" title="Paul" /> |
 | `Peach TaoZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-01.png" width="60" title="Peach TaoZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-02.png" width="60" title="Peach TaoZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-03.png" width="60" title="Peach TaoZi" /> |

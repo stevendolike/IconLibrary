@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-06-23｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-06-24｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1701,6 +1701,10 @@
         {
             "name": "PandaTV XiongMao",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-02.png"
+        },
+        {
+            "name": "PandaTV",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-03.png"
         },
         {
             "name": "PaoLu",

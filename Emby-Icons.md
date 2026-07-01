@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-06-30　｜　共 **653** 個圖標
+> 更新時間：2026-07-01　｜　共 **654** 個圖標
 
 ---
 
@@ -214,6 +214,7 @@
 | `ShuFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShuFu-01.png" width="60" title="ShuFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShuFu-02.png" width="60" title="ShuFu" /> |
 | `ShunYing LingChe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShunYing-01.png" width="60" title="ShunYing LingChe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShunYing-02.png" width="60" title="ShunYing LingChe" /> |
 | `ShuPian Chips` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShupianEmby.png" width="60" title="ShuPian Chips" /> |
+| `SIESTA` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SIESTA.png" width="60" title="SIESTA" /> |
 | `SMLW ShenMiLiWu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-01.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-02.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-03.png" width="60" title="SMLW ShenMiLiWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SMLW-04.png" width="60" title="SMLW ShenMiLiWu" /> |
 | `SNTPMediaLite` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-01.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-02.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-03.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-04.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-05.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-06.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-07.png" width="60" title="SNTPMediaLite" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SNTPMediaLite-08.png" width="60" title="SNTPMediaLite" /> |
 | `Star` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-01.png" width="60" title="Star" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarEmby-02.png" width="60" title="Star" /> |

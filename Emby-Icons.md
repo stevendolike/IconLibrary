@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-02　｜　共 **654** 個圖標
+> 更新時間：2026-07-03　｜　共 **655** 個圖標
 
 ---
 
@@ -32,6 +32,7 @@
 | `Asuka` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Asuka-01.png" width="60" title="Asuka" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Asuka-02.png" width="60" title="Asuka" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Asuka-03.png" width="60" title="Asuka" /> |
 | `AuroraMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-01.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-02.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-03.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-04.png" width="60" title="AuroraMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AuroraMedia-05.png" width="60" title="AuroraMedia" /> |
 | `AWATV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-01.png" width="60" title="AWATV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png" width="60" title="AWATV" /> |
+| `AytPlus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AytPlus.png" width="60" title="AytPlus" /> |
 | `Banana` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Banana.png" width="60" title="Banana" /> |
 | `BBFreeFilm BeeBI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png" width="60" title="BBFreeFilm BeeBI" /> |
 | `BuChiXiangCai BCXC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-01.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-02.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-03.png" width="60" title="BuChiXiangCai BCXC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BCXC-04.png" width="60" title="BuChiXiangCai BCXC" /> |

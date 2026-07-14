@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-13　｜　共 **656** 個圖標
+> 更新時間：2026-07-14　｜　共 **657** 個圖標
 
 ---
 
@@ -114,6 +114,7 @@
 | `JingZhe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JingzheEmby-01.png" width="60" title="JingZhe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JingzheEmby-02.png" width="60" title="JingZhe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JingzheEmby-03.png" width="60" title="JingZhe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JingzheEmby-04.png" width="60" title="JingZhe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JingzheEmby-05.png" width="60" title="JingZhe" /> |
 | `JMS Holivator JiaRiFeiXingJia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JMS-01.png" width="60" title="JMS Holivator JiaRiFeiXingJia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JMS-02.png" width="60" title="JMS Holivator JiaRiFeiXingJia" /> |
 | `July` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-01.png" width="60" title="July" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-02.png" width="60" title="July" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-03.png" width="60" title="July" /> |
+| `JuYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing.png" width="60" title="JuYing" /> |
 | `KFCV50` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-01.png" width="60" title="KFCV50" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-02.png" width="60" title="KFCV50" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-03.png" width="60" title="KFCV50" /> |
 | `Kiku` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-01.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-02.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-03.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-04.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-05.png" width="60" title="Kiku" /> |
 | `KiTi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KiTiEmby.png" width="60" title="KiTi" /> |

@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-14｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-15｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -983,6 +983,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-04.png"
         },
         {
+            "name": "Iris",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-05.png"
+        },
+        {
             "name": "Jellyfish+ ShuiMu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfish+-01.png"
         },
@@ -1361,6 +1365,10 @@
         {
             "name": "MaoWoYingShi",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-04.png"
+        },
+        {
+            "name": "MaoWoYingShi",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-05.png"
         },
         {
             "name": "MaoYan",

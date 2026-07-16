@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-15｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-16｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1041,6 +1041,14 @@
         {
             "name": "July",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-03.png"
+        },
+        {
+            "name": "JuYing",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing-01.png"
+        },
+        {
+            "name": "JuYing",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing-02.png"
         },
         {
             "name": "JuYing",
@@ -2097,6 +2105,10 @@
         {
             "name": "ShaYu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShayuEmby-06.png"
+        },
+        {
+            "name": "ShayuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ShayuEmby-07.png"
         },
         {
             "name": "Shrek",

@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-16｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-17｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -487,6 +487,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-05.png"
         },
         {
+            "name": "DiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-01.png"
+        },
+        {
+            "name": "DiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-02.png"
+        },
+        {
             "name": "DimLight",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DimLight.png"
         },
@@ -825,6 +833,14 @@
         {
             "name": "GuaiEmby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-05.png"
+        },
+        {
+            "name": "GuiXianWu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-01.png"
+        },
+        {
+            "name": "GuiXianWu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-02.png"
         },
         {
             "name": "HaiRiWan HaiRiBay",

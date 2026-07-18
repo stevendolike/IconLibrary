@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-17　｜　共 **666** 個圖標
+> 更新時間：2026-07-18　｜　共 **670** 個圖標
 
 ---
 
@@ -79,6 +79,7 @@
 | `ETFLIX` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-01.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-02.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-03.png" width="60" title="ETFLIX" /> |
 | `FeiNiu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-01.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-02.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-03.png" width="60" title="FeiNiu" /> |
 | `FeiYueCaiHong Rainbow` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-01.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-02.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-03.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-04.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-05.png" width="60" title="FeiYueCaiHong Rainbow" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-06.png" width="60" title="FeiYueCaiHong Rainbow" /> |
+| `FeiYueCaiHong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-07.png" width="60" title="FeiYueCaiHong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-08.png" width="60" title="FeiYueCaiHong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-09.png" width="60" title="FeiYueCaiHong" /> |
 | `FeiYueYinHe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-01.png" width="60" title="FeiYueYinHe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-02.png" width="60" title="FeiYueYinHe" /> |
 | `FeiYueYinHe YHEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe.png" width="60" title="FeiYueYinHe YHEmby" /> |
 | `Fiti` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Fiti.png" width="60" title="Fiti" /> |
@@ -105,6 +106,7 @@
 | `HKA` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-01.png" width="60" title="HKA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-02.png" width="60" title="HKA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-03.png" width="60" title="HKA" /> |
 | `Hohai` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-01.png" width="60" title="Hohai" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-02.png" width="60" title="Hohai" /> |
 | `Houyinx` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Houyinx-01.png" width="60" title="Houyinx" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Houyinx-02.png" width="60" title="Houyinx" /> |
+| `HuachuEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HuachuEmby.png" width="60" title="HuachuEmby" /> |
 | `HuaLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HualuEmby-01.png" width="60" title="HuaLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HualuEmby-02.png" width="60" title="HuaLu" /> |
 | `hx-emby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/hx-emby.png" width="60" title="hx-emby" /> |
 | `HXDEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-01.png" width="60" title="HXDEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-02.png" width="60" title="HXDEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-03.png" width="60" title="HXDEmby" /> |

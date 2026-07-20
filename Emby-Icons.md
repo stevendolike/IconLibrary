@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-19　｜　共 **671** 個圖標
+> 更新時間：2026-07-20　｜　共 **672** 個圖標
 
 ---
 
@@ -156,6 +156,7 @@
 | `MeatHub` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MeatHub.png" width="60" title="MeatHub" /> |
 | `ME BAVA` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-01.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-02.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-03.png" width="60" title="ME BAVA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEBAVA-04.png" width="60" title="ME BAVA" /> |
 | `ME` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-01.png" width="60" title="ME" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-02.png" width="60" title="ME" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-03.png" width="60" title="ME" /> |
+| `MenBao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MenBao.png" width="60" title="MenBao" /> |
 | `MengDie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MengDie.png" width="60" title="MengDie" /> |
 | `Meowfly FeiLeGeMiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-01.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-02.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-03.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-04.png" width="60" title="Meowfly FeiLeGeMiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Meowfly-05.png" width="60" title="Meowfly FeiLeGeMiao" /> |
 | `MICU` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MICU.png" width="60" title="MICU" /> |

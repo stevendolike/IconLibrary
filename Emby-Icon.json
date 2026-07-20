@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-19｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-20｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1469,6 +1469,10 @@
         {
             "name": "ME",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MEEmby-03.png"
+        },
+        {
+            "name": "MenBao",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MenBao.png"
         },
         {
             "name": "MengDie",

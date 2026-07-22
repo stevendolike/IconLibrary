@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-21｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-22｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1399,6 +1399,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Magpie.png"
         },
         {
+            "name": "MaoHeLaoShu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoHeLaoShu.png"
+        },
+        {
             "name": "MaoWoYingShi",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MaoWoYingShi-01.png"
         },
@@ -2393,6 +2397,10 @@
         {
             "name": "WalnutEmby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-06.png"
+        },
+        {
+            "name": "WaWaJiao",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WaWaJiao.png"
         },
         {
             "name": "We",

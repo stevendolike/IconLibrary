@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-23　｜　共 **677** 個圖標
+> 更新時間：2026-07-24　｜　共 **679** 個圖標
 
 ---
 
@@ -59,7 +59,7 @@
 | `DanFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DanfuEmby.png" width="60" title="DanFu" /> |
 | `DECEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DECEmby-01.png" width="60" title="DECEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DECEmby-02.png" width="60" title="DECEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DECEmby-03.png" width="60" title="DECEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DECEmby-04.png" width="60" title="DECEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DECEmby-05.png" width="60" title="DECEmby" /> |
 | `ShenYeShiTang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-01.png" width="60" title="ShenYeShiTang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-02.png" width="60" title="ShenYeShiTang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-03.png" width="60" title="ShenYeShiTang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-04.png" width="60" title="ShenYeShiTang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DeepEmby-05.png" width="60" title="ShenYeShiTang" /> |
-| `DiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-01.png" width="60" title="DiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-02.png" width="60" title="DiEmby" /> |
+| `DiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-01.png" width="60" title="DiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-02.png" width="60" title="DiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-03.png" width="60" title="DiEmby" /> |
 | `DimLight` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DimLight.png" width="60" title="DimLight" /> |
 | `Doubon` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Doubon-01.png" width="60" title="Doubon" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Doubon-02.png" width="60" title="Doubon" /> |
 | `DPeakFilma` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DPeakFilma.png" width="60" title="DPeakFilma" /> |
@@ -106,6 +106,7 @@
 | `HG` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HGEmby.png" width="60" title="HG" /> |
 | `HKA` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-01.png" width="60" title="HKA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-02.png" width="60" title="HKA" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HKAEmby-03.png" width="60" title="HKA" /> |
 | `Hohai` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-01.png" width="60" title="Hohai" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-02.png" width="60" title="Hohai" /> |
+| `HohaiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-03.png" width="60" title="HohaiEmby" /> |
 | `Houyinx` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Houyinx-01.png" width="60" title="Houyinx" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Houyinx-02.png" width="60" title="Houyinx" /> |
 | `HuachuEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HuachuEmby.png" width="60" title="HuachuEmby" /> |
 | `HuaLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HualuEmby-01.png" width="60" title="HuaLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HualuEmby-02.png" width="60" title="HuaLu" /> |

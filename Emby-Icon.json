@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-23｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-24｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -495,6 +495,10 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-02.png"
         },
         {
+            "name": "DiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DiEmby-03.png"
+        },
+        {
             "name": "DimLight",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DimLight.png"
         },
@@ -953,6 +957,10 @@
         {
             "name": "Hohai",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-02.png"
+        },
+        {
+            "name": "HohaiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HohaiEmby-03.png"
         },
         {
             "name": "Houyinx",

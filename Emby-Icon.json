@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-07-24｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-07-25｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1213,6 +1213,18 @@
         {
             "name": "LewaMovie",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-03.png"
+        },
+        {
+            "name": "LiGe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-01.png"
+        },
+        {
+            "name": "LiGe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-02.png"
+        },
+        {
+            "name": "LiGe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-03.png"
         },
         {
             "name": "LightingTime ShiGuang",

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-24　｜　共 **679** 個圖標
+> 更新時間：2026-07-25　｜　共 **682** 個圖標
 
 ---
 
@@ -132,6 +132,7 @@
 | `L` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lemby.png" width="60" title="L" /> |
 | `LevildeLuminia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-01.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-02.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-03.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-04.png" width="60" title="LevildeLuminia" /> |
 | `LewaMovie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-01.png" width="60" title="LewaMovie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-02.png" width="60" title="LewaMovie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-03.png" width="60" title="LewaMovie" /> |
+| `LiGe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-01.png" width="60" title="LiGe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-02.png" width="60" title="LiGe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiGe-03.png" width="60" title="LiGe" /> |
 | `LightingTime ShiGuang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LightingTime-01.png" width="60" title="LightingTime ShiGuang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LightingTime-02.png" width="60" title="LightingTime ShiGuang" /> |
 | `Lily` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LilyEmby-01.png" width="60" title="Lily" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LilyEmby-02.png" width="60" title="Lily" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LilyEmby-03.png" width="60" title="Lily" /> |
 | `Liminal LinJing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-01.png" width="60" title="Liminal LinJing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-02.png" width="60" title="Liminal LinJing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-03.png" width="60" title="Liminal LinJing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-04.png" width="60" title="Liminal LinJing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-05.png" width="60" title="Liminal LinJing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Liminal-06.png" width="60" title="Liminal LinJing" /> |

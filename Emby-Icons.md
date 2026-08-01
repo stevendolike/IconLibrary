@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-07-31　｜　共 **686** 個圖標
+> 更新時間：2026-08-01　｜　共 **687** 個圖標
 
 ---
 
@@ -167,7 +167,7 @@
 | `Miorina` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Miorina.png" width="60" title="Miorina" /> |
 | `Mirai` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MiraiEmby-01.png" width="60" title="Mirai" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MiraiEmby-02.png" width="60" title="Mirai" /> |
 | `MisakaF` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisakaF.png" width="60" title="MisakaF" /> |
-| `MisayaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-01.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-02.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-03.png" width="60" title="MisayaMedia" /> |
+| `MisayaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-01.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-02.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-03.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-04.png" width="60" title="MisayaMedia" /> |
 | `Misty+` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty+.png" width="60" title="Misty+" /> |
 | `Misty` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty.png" width="60" title="Misty" /> |
 | `MoMei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-01.png" width="60" title="MoMei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-02.png" width="60" title="MoMei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-03.png" width="60" title="MoMei" /> |

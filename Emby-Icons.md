@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-02　｜　共 **687** 個圖標
+> 更新時間：2026-08-03　｜　共 **688** 個圖標
 
 ---
 
@@ -271,6 +271,7 @@
 | `YiMeng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png" width="60" title="YiMeng" /> |
 | `YinXingMaiMing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png" width="60" title="YinXingMaiMing" /> |
 | `YiShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiShang.png" width="60" title="YiShang" /> |
+| `YiZhuQingTian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian.png" width="60" title="YiZhuQingTian" /> |
 | `Yomo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-01.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-02.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-03.png" width="60" title="Yomo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YomoEmby-04.png" width="60" title="Yomo" /> |
 | `Youno` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-01.png" width="60" title="Youno" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-02.png" width="60" title="Youno" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoEmby-03.png" width="60" title="Youno" /> |
 | `YounoPlus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoPlus-01.png" width="60" title="YounoPlus" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoPlus-02.png" width="60" title="YounoPlus" /> |

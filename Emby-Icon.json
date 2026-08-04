@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-03｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-04｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -247,6 +247,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png"
         },
         {
+            "name": "AyanamiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-01.png"
+        },
+        {
+            "name": "AyanamiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-02.png"
+        },
+        {
             "name": "AytPlus",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AytPlus.png"
         },
@@ -257,6 +265,10 @@
         {
             "name": "BBFreeFilm BeeBI",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png"
+        },
+        {
+            "name": "BBQAQEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBQAQEmby.png"
         },
         {
             "name": "BuChiXiangCai BCXC",
@@ -1347,6 +1359,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Loser.1111-05.png"
         },
         {
+            "name": "LuminaGallery",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LuminaGallery-01.png"
+        },
+        {
+            "name": "LuminaGallery",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LuminaGallery-02.png"
+        },
+        {
             "name": "LunarisVault",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LunarisVault-01.png"
         },
@@ -1537,6 +1557,10 @@
         {
             "name": "MICU",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MICU.png"
+        },
+        {
+            "name": "MilkEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MilkEmby.png"
         },
         {
             "name": "Miorina",
@@ -1825,6 +1849,10 @@
         {
             "name": "OrigamiArt ZheZhi",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-06.png"
+        },
+        {
+            "name": "OverCookedMedia",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OverCookedMedia.png"
         },
         {
             "name": "OwnEmby",

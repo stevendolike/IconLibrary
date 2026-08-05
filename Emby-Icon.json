@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-04｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-05｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -317,6 +317,10 @@
         {
             "name": "ChaCanTing",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaCanTing.png"
+        },
+        {
+            "name": "ChaPanda",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaPanda.png"
         },
         {
             "name": "CharonTV KaRong",
@@ -2673,6 +2677,18 @@
         {
             "name": "YourFYTing FangYingTing",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-02.png"
+        },
+        {
+            "name": "YuchuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-01.png"
+        },
+        {
+            "name": "YuchuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-02.png"
+        },
+        {
+            "name": "YuchuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-03.png"
         },
         {
             "name": "YueZhiXuan",

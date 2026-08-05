@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-04　｜　共 **695** 個圖標
+> 更新時間：2026-08-05　｜　共 **699** 個圖標
 
 ---
 
@@ -44,6 +44,7 @@
 | `CatPornEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CatPornEmby.png" width="60" title="CatPornEmby" /> |
 | `CC` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-01.png" width="60" title="CC" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CcEmby-02.png" width="60" title="CC" /> |
 | `ChaCanTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaCanTing.png" width="60" title="ChaCanTing" /> |
+| `ChaPanda` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaPanda.png" width="60" title="ChaPanda" /> |
 | `CharonTV KaRong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-01.png" width="60" title="CharonTV KaRong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-02.png" width="60" title="CharonTV KaRong" /> |
 | `Cherry YingTao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-01.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-02.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-03.png" width="60" title="Cherry YingTao" /> |
 | `ChilledMelon XiGua DaiGua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-01.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-02.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-03.png" width="60" title="ChilledMelon XiGua DaiGua" /> |
@@ -282,6 +283,7 @@
 | `YounoPlus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoPlus-01.png" width="60" title="YounoPlus" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YounoPlus-02.png" width="60" title="YounoPlus" /> |
 | `YouQiBing YQB` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YouQiBing.png" width="60" title="YouQiBing YQB" /> |
 | `YourFYTing FangYingTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-01.png" width="60" title="YourFYTing FangYingTing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YourFYTing-02.png" width="60" title="YourFYTing FangYingTing" /> |
+| `YuchuEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-01.png" width="60" title="YuchuEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-02.png" width="60" title="YuchuEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YuchuEmby-03.png" width="60" title="YuchuEmby" /> |
 | `YueZhiXuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-01.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-02.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-03.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-04.png" width="60" title="YueZhiXuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YueZhiXuan-05.png" width="60" title="YueZhiXuan" /> |
 | `Yum` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YumEmby.png" width="60" title="Yum" /> |
 | `YusenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby-01.png" width="60" title="YusenEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby-02.png" width="60" title="YusenEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby-03.png" width="60" title="YusenEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YusenEmby.png" width="60" title="YusenEmby" /> |

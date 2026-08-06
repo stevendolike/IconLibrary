@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-05｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-06｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -167,6 +167,50 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AniSaga-04.png"
         },
         {
+            "name": "AshMedia",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AshMedia.png"
+        },
+        {
+            "name": "Ask",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Ask.png"
+        },
+        {
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskAsh-01.png"
+        },
+        {
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskAsh-02.png"
+        },
+        {
+            "name": "AskAsh",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskAsh-03.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskBot-01.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskBot-02.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskBot-03.png"
+        },
+        {
+            "name": "AskBot",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskBot-04.png"
+        },
+        {
+            "name": "AskPremium",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskPremium.png"
+        },
+        {
+            "name": "AskUltra",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskUltra.png"
+        },
+        {
             "name": "AskUniversal",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AskUniversal-01.png"
         },
@@ -217,6 +261,14 @@
         {
             "name": "Asuka",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Asuka-03.png"
+        },
+        {
+            "name": "AunteaJenny",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AunteaJenny-01.png"
+        },
+        {
+            "name": "AunteaJenny",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AunteaJenny-02.png"
         },
         {
             "name": "AuroraMedia",

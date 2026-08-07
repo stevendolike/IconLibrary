@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-06　｜　共 **712** 個圖標
+> 更新時間：2026-08-07　｜　共 **716** 個圖標
 
 ---
 
@@ -182,6 +182,8 @@
 | `MisayaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-01.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-02.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-03.png" width="60" title="MisayaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MisayaMedia-04.png" width="60" title="MisayaMedia" /> |
 | `Misty+` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty+.png" width="60" title="Misty+" /> |
 | `Misty` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Misty.png" width="60" title="Misty" /> |
+| `MixueEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MixueEmby-01.png" width="60" title="MixueEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MixueEmby-02.png" width="60" title="MixueEmby" /> |
+| `MoliEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoliEmby-01.png" width="60" title="MoliEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoliEmby-02.png" width="60" title="MoliEmby" /> |
 | `MoMei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-01.png" width="60" title="MoMei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-02.png" width="60" title="MoMei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoMei-03.png" width="60" title="MoMei" /> |
 | `Mooncake YueBing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Mooncake-01.png" width="60" title="Mooncake YueBing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Mooncake-02.png" width="60" title="Mooncake YueBing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Mooncake-03.png" width="60" title="Mooncake YueBing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Mooncake-04.png" width="60" title="Mooncake YueBing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Mooncake-05.png" width="60" title="Mooncake YueBing" /> |
 | `MoYunGe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoYunGe-01.png" width="60" title="MoYunGe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MoYunGe-02.png" width="60" title="MoYunGe" /> |

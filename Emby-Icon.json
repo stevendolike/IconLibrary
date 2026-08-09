@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-08｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-09｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1387,6 +1387,30 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LiXiangGuo-02.png"
         },
         {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-01.png"
+        },
+        {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-02.png"
+        },
+        {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-03.png"
+        },
+        {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-04.png"
+        },
+        {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-05.png"
+        },
+        {
+            "name": "LollipopEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LollipopEmby-06.png"
+        },
+        {
             "name": "Long",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LongEmby.png"
         },
@@ -2137,6 +2161,10 @@
         {
             "name": "QuarkCloudDrive",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/QuarkCloudDrive.png"
+        },
+        {
+            "name": "QuJingGe",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/QuJingGe.png"
         },
         {
             "name": "Qyys QiYuan",

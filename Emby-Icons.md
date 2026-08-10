@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-09　｜　共 **723** 個圖標
+> 更新時間：2026-08-10　｜　共 **725** 個圖標
 
 ---
 
@@ -53,6 +53,7 @@
 | `ChaCanTing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaCanTing.png" width="60" title="ChaCanTing" /> |
 | `ChaPanda` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaPanda.png" width="60" title="ChaPanda" /> |
 | `CharonTV KaRong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-01.png" width="60" title="CharonTV KaRong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-02.png" width="60" title="CharonTV KaRong" /> |
+| `ChefsSecretMenu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChefsSecretMenu.png" width="60" title="ChefsSecretMenu" /> |
 | `Cherry YingTao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-01.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-02.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-03.png" width="60" title="Cherry YingTao" /> |
 | `ChilledMelon XiGua DaiGua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-01.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-02.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-03.png" width="60" title="ChilledMelon XiGua DaiGua" /> |
 | `Chong PornJerry Calorie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-01.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-02.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-03.png" width="60" title="Chong PornJerry Calorie" /> |
@@ -270,6 +271,7 @@
 | `Unbound WoShenWuJu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/UnboundEmby-01.png" width="60" title="Unbound WoShenWuJu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/UnboundEmby-02.png" width="60" title="Unbound WoShenWuJu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/UnboundEmby-03.png" width="60" title="Unbound WoShenWuJu" /> |
 | `Vincent` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Vincent-01.png" width="60" title="Vincent" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Vincent-02.png" width="60" title="Vincent" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Vincent-03.png" width="60" title="Vincent" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Vincent-04.png" width="60" title="Vincent" /> |
 | `Violet ZiLuoLan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VioletEmby.png" width="60" title="Violet ZiLuoLan" /> |
+| `VodEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VodEmby.png" width="60" title="VodEmby" /> |
 | `WalnutEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-01.png" width="60" title="WalnutEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-02.png" width="60" title="WalnutEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-03.png" width="60" title="WalnutEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-04.png" width="60" title="WalnutEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-05.png" width="60" title="WalnutEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WalnutEmby-06.png" width="60" title="WalnutEmby" /> |
 | `WaWaJiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WaWaJiao.png" width="60" title="WaWaJiao" /> |
 | `We` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WeEmby-01.png" width="60" title="We" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WeEmby-02.png" width="60" title="We" /> |

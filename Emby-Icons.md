@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-10　｜　共 **725** 個圖標
+> 更新時間：2026-08-11　｜　共 **729** 個圖標
 
 ---
 
@@ -24,6 +24,7 @@
 | `404NotFound` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-01.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-02.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-03.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-04.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-05.png" width="60" title="404NotFound" /> |
 | `AiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AiEmby.png" width="60" title="AiEmby" /> |
 | `Aladdin ALaDing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-01.png" width="60" title="Aladdin ALaDing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-02.png" width="60" title="Aladdin ALaDing" /> |
+| `ALittleTea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ALittleTea.png" width="60" title="ALittleTea" /> |
 | `AlphaTVOmega` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOmega.png" width="60" title="AlphaTVOmega" /> |
 | `AlphaTVOversea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-01.png" width="60" title="AlphaTVOversea" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-02.png" width="60" title="AlphaTVOversea" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AlphaTVOversea-03.png" width="60" title="AlphaTVOversea" /> |
 | `Anime` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Anime-01.png" width="60" title="Anime" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Anime-02.png" width="60" title="Anime" /> |
@@ -102,6 +103,7 @@
 | `FuFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-01.png" width="60" title="FuFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-02.png" width="60" title="FuFu" /> |
 | `FWorks` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-01.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-02.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-03.png" width="60" title="FWorks" /> |
 | `GeeTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-01.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-02.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-03.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-04.png" width="60" title="GeeTV" /> |
+| `Genshin` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Genshin-01.png" width="60" title="Genshin" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Genshin-02.png" width="60" title="Genshin" /> |
 | `GIDD JiDao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GIDD-01.png" width="60" title="GIDD JiDao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GIDD-02.png" width="60" title="GIDD JiDao" /> |
 | `Gimy JuMi XinYingShiJie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GimyEmby.png" width="60" title="Gimy JuMi XinYingShiJie" /> |
 | `GingaRessha` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-01.png" width="60" title="GingaRessha" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-02.png" width="60" title="GingaRessha" /> |
@@ -261,6 +263,7 @@
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |
 | `TeCar` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TeCar-01.png" width="60" title="TeCar" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TeCar-02.png" width="60" title="TeCar" /> |
 | `Temby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Temby.png" width="60" title="Temby" /> |
+| `Terminus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Terminus.png" width="60" title="Terminus" /> |
 | `TFTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TFTV-01.png" width="60" title="TFTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TFTV-02.png" width="60" title="TFTV" /> |
 | `TheLuYuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TheLuYuan-01.png" width="60" title="TheLuYuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TheLuYuan-02.png" width="60" title="TheLuYuan" /> |
 | `Tom&Jerry` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Tom&Jerry-01.png" width="60" title="Tom&Jerry" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Tom&Jerry-02.png" width="60" title="Tom&Jerry" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Tom&Jerry.png" width="60" title="Tom&Jerry" /> |

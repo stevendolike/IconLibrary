@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-11　｜　共 **729** 個圖標
+> 更新時間：2026-08-12　｜　共 **733** 個圖標
 
 ---
 
@@ -42,6 +42,7 @@
 | `AWATV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-01.png" width="60" title="AWATV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png" width="60" title="AWATV" /> |
 | `AyanamiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-01.png" width="60" title="AyanamiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-02.png" width="60" title="AyanamiEmby" /> |
 | `AytPlus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AytPlus.png" width="60" title="AytPlus" /> |
+| `BaiHuaTheatre` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-01.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-02.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-03.png" width="60" title="BaiHuaTheatre" /> |
 | `Banana` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Banana.png" width="60" title="Banana" /> |
 | `BBFreeFilm BeeBI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png" width="60" title="BBFreeFilm BeeBI" /> |
 | `BBQAQEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBQAQEmby.png" width="60" title="BBQAQEmby" /> |
@@ -127,6 +128,7 @@
 | `HXDEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-01.png" width="60" title="HXDEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-02.png" width="60" title="HXDEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HXDEmby-03.png" width="60" title="HXDEmby" /> |
 | `ichinosekotomifan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ichinosekotomifan-01.png" width="60" title="ichinosekotomifan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ichinosekotomifan.png" width="60" title="ichinosekotomifan" /> |
 | `ikun` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ikunEmby.png" width="60" title="ikun" /> |
+| `InstantNoodles` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/InstantNoodles.png" width="60" title="InstantNoodles" /> |
 | `Iris YuanWei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-01.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-02.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-03.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-04.png" width="60" title="Iris YuanWei" /> |
 | `Iris` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-05.png" width="60" title="Iris" /> |
 | `ItsmygoTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ItsmygoTV.png" width="60" title="ItsmygoTV" /> |

@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-11｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-12｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -313,6 +313,18 @@
         {
             "name": "AytPlus",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AytPlus.png"
+        },
+        {
+            "name": "BaiHuaTheatre",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-01.png"
+        },
+        {
+            "name": "BaiHuaTheatre",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-02.png"
+        },
+        {
+            "name": "BaiHuaTheatre",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-03.png"
         },
         {
             "name": "Banana",
@@ -1093,6 +1105,10 @@
         {
             "name": "ikun",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ikunEmby.png"
+        },
+        {
+            "name": "InstantNoodles",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/InstantNoodles.png"
         },
         {
             "name": "Iris YuanWei",

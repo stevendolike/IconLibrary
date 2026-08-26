@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-25　｜　共 **735** 個圖標
+> 更新時間：2026-08-26　｜　共 **737** 個圖標
 
 ---
 
@@ -294,6 +294,7 @@
 | `YeZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-01.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-02.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-03.png" width="60" title="YeZi" /> |
 | `YiHeTang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiHeTang.png" width="60" title="YiHeTang" /> |
 | `YiMeng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png" width="60" title="YiMeng" /> |
+| `YingYangKuaiXian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingYangKuaiXian.png" width="60" title="YingYangKuaiXian" /> |
 | `YinXingMaiMing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png" width="60" title="YinXingMaiMing" /> |
 | `YiShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiShang.png" width="60" title="YiShang" /> |
 | `YiZhuQingTian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian.png" width="60" title="YiZhuQingTian" /> |
@@ -315,6 +316,7 @@
 | `Zox` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Zox.png" width="60" title="Zox" /> |
 | `ZoxFree` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZoxFree.png" width="60" title="ZoxFree" /> |
 | `ZheZhiMao ZZM` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-01.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-02.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-03.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-04.png" width="60" title="ZheZhiMao ZZM" /> |
+| `ZZMEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-05.png" width="60" title="ZZMEmby" /> |
 
 ---
 *Auto-generated from [Emby-Icon.json](./Emby-Icon.json)*

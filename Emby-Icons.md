@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-27　｜　共 **738** 個圖標
+> 更新時間：2026-08-28　｜　共 **740** 個圖標
 
 ---
 
@@ -109,6 +109,7 @@
 | `Gimy JuMi XinYingShiJie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GimyEmby.png" width="60" title="Gimy JuMi XinYingShiJie" /> |
 | `GingaRessha` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-01.png" width="60" title="GingaRessha" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GingaRessha-02.png" width="60" title="GingaRessha" /> |
 | `GouSheng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GouSheng-01.png" width="60" title="GouSheng" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GouSheng-02.png" width="60" title="GouSheng" /> |
+| `GuabiTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuabiTV.png" width="60" title="GuabiTV" /> |
 | `GUAI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-01.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-02.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-03.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-04.png" width="60" title="GUAI" /> |
 | `GuaiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-05.png" width="60" title="GuaiEmby" /> |
 | `GuiXianWu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-01.png" width="60" title="GuiXianWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-02.png" width="60" title="GuiXianWu" /> |
@@ -316,7 +317,7 @@
 | `Zox` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Zox.png" width="60" title="Zox" /> |
 | `ZoxFree` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZoxFree.png" width="60" title="ZoxFree" /> |
 | `ZheZhiMao ZZM` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-01.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-02.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-03.png" width="60" title="ZheZhiMao ZZM" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-04.png" width="60" title="ZheZhiMao ZZM" /> |
-| `ZZMEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-05.png" width="60" title="ZZMEmby" /> |
+| `ZZMEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-05.png" width="60" title="ZZMEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-06.png" width="60" title="ZZMEmby" /> |
 
 ---
 *Auto-generated from [Emby-Icon.json](./Emby-Icon.json)*

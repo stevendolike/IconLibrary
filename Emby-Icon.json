@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-08-27｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-08-28｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -933,6 +933,10 @@
         {
             "name": "GouSheng",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GouSheng-02.png"
+        },
+        {
+            "name": "GuabiTV",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuabiTV.png"
         },
         {
             "name": "GUAI",
@@ -2953,6 +2957,10 @@
         {
             "name": "ZZMEmby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-05.png"
+        },
+        {
+            "name": "ZZMEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ZZMEmby-06.png"
         }
     ]
 }

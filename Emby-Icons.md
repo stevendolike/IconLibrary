@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-08-30　｜　共 **740** 個圖標
+> 更新時間：2026-08-31　｜　共 **742** 個圖標
 
 ---
 
@@ -89,6 +89,7 @@
 | `emos` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/emos-01.png" width="60" title="emos" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/emos-02.png" width="60" title="emos" /> |
 | `empn` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/empn-01.png" width="60" title="empn" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/empn-02.png" width="60" title="empn" /> |
 | `EOOS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-01.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-02.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS-03.png" width="60" title="EOOS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EOOS.png" width="60" title="EOOS" /> |
+| `ErLouYouQing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ErLouYouQing-01.png" width="60" title="ErLouYouQing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ErLouYouQing-02.png" width="60" title="ErLouYouQing" /> |
 | `ETFLIX` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-01.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-02.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-03.png" width="60" title="ETFLIX" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ETFLIX-04.png" width="60" title="ETFLIX" /> |
 | `FeimuTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeimuTV.png" width="60" title="FeimuTV" /> |
 | `FeiNiu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-01.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-02.png" width="60" title="FeiNiu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiniuEmby-03.png" width="60" title="FeiNiu" /> |

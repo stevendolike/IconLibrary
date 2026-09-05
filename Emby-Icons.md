@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-04　｜　共 **744** 個圖標
+> 更新時間：2026-09-05　｜　共 **745** 個圖標
 
 ---
 
@@ -210,6 +210,7 @@
 | `NTRRR` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NTRRR.png" width="60" title="NTRRR" /> |
 | `NubeBelle` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NubeBelle.png" width="60" title="NubeBelle" /> |
 | `NyaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia-01.png" width="60" title="NyaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia-02.png" width="60" title="NyaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia.png" width="60" title="NyaMedia" /> |
+| `OceanCloudEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OceanCloudEmby.png" width="60" title="OceanCloudEmby" /> |
 | `OK` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-01.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-02.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-03.png" width="60" title="OK" /> |
 | `Onyra` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OnyraEmby.png" width="60" title="Onyra" /> |
 | `OrigamiArt ZheZhi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-01.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-02.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-03.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-04.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-05.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-06.png" width="60" title="OrigamiArt ZheZhi" /> |

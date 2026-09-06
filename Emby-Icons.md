@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-05　｜　共 **745** 個圖標
+> 更新時間：2026-09-06　｜　共 **746** 個圖標
 
 ---
 
@@ -103,6 +103,7 @@
 | `FitiProOversea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProOversea.png" width="60" title="FitiProOversea" /> |
 | `FJY` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FJYEmby.png" width="60" title="FJY" /> |
 | `FuFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-01.png" width="60" title="FuFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-02.png" width="60" title="FuFu" /> |
+| `FunToFun` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FunToFun.png" width="60" title="FunToFun" /> |
 | `FWorks` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-01.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-02.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-03.png" width="60" title="FWorks" /> |
 | `GeeTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-01.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-02.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-03.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-04.png" width="60" title="GeeTV" /> |
 | `Genshin` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Genshin-01.png" width="60" title="Genshin" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Genshin-02.png" width="60" title="Genshin" /> |

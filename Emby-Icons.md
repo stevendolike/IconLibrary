@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-07　｜　共 **746** 個圖標
+> 更新時間：2026-09-08　｜　共 **747** 個圖標
 
 ---
 
@@ -148,6 +148,7 @@
 | `KuaiLeDaYa` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Kuailedaya-01.png" width="60" title="KuaiLeDaYa" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Kuailedaya-02.png" width="60" title="KuaiLeDaYa" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Kuailedaya-03.png" width="60" title="KuaiLeDaYa" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Kuailedaya-04.png" width="60" title="KuaiLeDaYa" /> |
 | `LaoYouJi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LaoYouJi.png" width="60" title="LaoYouJi" /> |
 | `Le` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LeEmby-01.png" width="60" title="Le" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LeEmby-02.png" width="60" title="Le" /> |
+| `LeguanEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LeguanEmby.png" width="60" title="LeguanEmby" /> |
 | `L` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Lemby.png" width="60" title="L" /> |
 | `LevildeLuminia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-01.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-02.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-03.png" width="60" title="LevildeLuminia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LevildeLuminia-04.png" width="60" title="LevildeLuminia" /> |
 | `LewaMovie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-01.png" width="60" title="LewaMovie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-02.png" width="60" title="LewaMovie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-03.png" width="60" title="LewaMovie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/LewaMovie-04.png" width="60" title="LewaMovie" /> |

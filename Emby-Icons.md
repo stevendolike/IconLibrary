@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-08　｜　共 **747** 個圖標
+> 更新時間：2026-09-09　｜　共 **751** 個圖標
 
 ---
 
@@ -216,6 +216,7 @@
 | `OK` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-01.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-02.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-03.png" width="60" title="OK" /> |
 | `Onyra` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OnyraEmby.png" width="60" title="Onyra" /> |
 | `OrigamiArt ZheZhi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-01.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-02.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-03.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-04.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-05.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-06.png" width="60" title="OrigamiArt ZheZhi" /> |
+| `OrigamiArt` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-07.png" width="60" title="OrigamiArt" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-08.png" width="60" title="OrigamiArt" /> |
 | `OverCookedMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OverCookedMedia.png" width="60" title="OverCookedMedia" /> |
 | `OwnEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OwnEmby.png" width="60" title="OwnEmby" /> |
 | `PandaTV XiongMao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-01.png" width="60" title="PandaTV XiongMao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PandaTV-02.png" width="60" title="PandaTV XiongMao" /> |
@@ -265,6 +266,7 @@
 | `StarSho XingShuo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-01.png" width="60" title="StarSho XingShuo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho-02.png" width="60" title="StarSho XingShuo" /> |
 | `StarSho` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho.png" width="60" title="StarSho" /> |
 | `StevenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StevenEmby.png" width="60" title="StevenEmby" /> |
+| `SuiShiPaoLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SuiShiPaoLu-01.png" width="60" title="SuiShiPaoLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SuiShiPaoLu-02.png" width="60" title="SuiShiPaoLu" /> |
 | `TanHuaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png" width="60" title="TanHuaTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-02.png" width="60" title="TanHuaTV" /> |
 | `TanHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-03.png" width="60" title="TanHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-04.png" width="60" title="TanHua" /> |
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |

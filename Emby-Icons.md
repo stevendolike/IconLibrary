@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-10　｜　共 **751** 個圖標
+> 更新時間：2026-09-11　｜　共 **752** 個圖標
 
 ---
 
@@ -134,6 +134,7 @@
 | `InstantNoodles` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/InstantNoodles.png" width="60" title="InstantNoodles" /> |
 | `Iris YuanWei` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-01.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-02.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-03.png" width="60" title="Iris YuanWei" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-04.png" width="60" title="Iris YuanWei" /> |
 | `Iris` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-05.png" width="60" title="Iris" /> |
+| `IrisACG` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/IrisACG.png" width="60" title="IrisACG" /> |
 | `ItsmygoTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ItsmygoTV.png" width="60" title="ItsmygoTV" /> |
 | `Jellyfish+ ShuiMu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfish+-01.png" width="60" title="Jellyfish+ ShuiMu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfish+-02.png" width="60" title="Jellyfish+ ShuiMu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Jellyfish+-03.png" width="60" title="Jellyfish+ ShuiMu" /> |
 | `JianShouQingn JSQ` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JianShouQing.png" width="60" title="JianShouQingn JSQ" /> |

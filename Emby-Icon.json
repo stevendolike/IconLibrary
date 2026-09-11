@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-09-10｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-09-11｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -1153,6 +1153,10 @@
         {
             "name": "Iris",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Iris-05.png"
+        },
+        {
+            "name": "IrisACG",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/IrisACG.png"
         },
         {
             "name": "ItsmygoTV",

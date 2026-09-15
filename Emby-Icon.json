@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-09-14｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-09-15｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -385,6 +385,14 @@
         {
             "name": "ChaCanTing",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaCanTing.png"
+        },
+        {
+            "name": "ChaPanda",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaPanda-01.png"
+        },
+        {
+            "name": "ChaPanda",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChaPanda-02.png"
         },
         {
             "name": "ChaPanda",
@@ -2645,6 +2653,14 @@
         {
             "name": "Violet ZiLuoLan",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VioletEmby.png"
+        },
+        {
+            "name": "VODCMS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VODCMS-01.png"
+        },
+        {
+            "name": "VODCMS",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/VODCMS-02.png"
         },
         {
             "name": "VodEmby",

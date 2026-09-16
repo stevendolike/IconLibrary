@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-15　｜　共 **756** 個圖標
+> 更新時間：2026-09-16　｜　共 **758** 個圖標
 
 ---
 
@@ -64,6 +64,7 @@
 | `CineTrail YingJi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CineTrail-01.png" width="60" title="CineTrail YingJi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CineTrail-02.png" width="60" title="CineTrail YingJi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CineTrail-03.png" width="60" title="CineTrail YingJi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CineTrail-04.png" width="60" title="CineTrail YingJi" /> |
 | `ClimbHigh DengGao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ClimbHigh-01.png" width="60" title="ClimbHigh DengGao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ClimbHigh-02.png" width="60" title="ClimbHigh DengGao" /> |
 | `Cloud YunShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CloudEmby-01.png" width="60" title="Cloud YunShang" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CloudEmby-02.png" width="60" title="Cloud YunShang" /> |
+| `CloudEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CloudEmby.png" width="60" title="CloudEmby" /> |
 | `CoCo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CoCoEmby.png" width="60" title="CoCo" /> |
 | `ColaEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ColaEmby.png" width="60" title="ColaEmby" /> |
 | `Cookie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CookieEmby-01.png" width="60" title="Cookie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CookieEmby-02.png" width="60" title="Cookie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CookieEmby-03.png" width="60" title="Cookie" /> |
@@ -215,6 +216,7 @@
 | `NyaMedia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia-01.png" width="60" title="NyaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia-02.png" width="60" title="NyaMedia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NyaMedia.png" width="60" title="NyaMedia" /> |
 | `OceanCloudEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OceanCloudEmby.png" width="60" title="OceanCloudEmby" /> |
 | `OK` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-01.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-02.png" width="60" title="OK" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OkEmby-03.png" width="60" title="OK" /> |
+| `OnCloudEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OnCloudEmby.png" width="60" title="OnCloudEmby" /> |
 | `Onyra` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OnyraEmby.png" width="60" title="Onyra" /> |
 | `OrigamiArt ZheZhi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-01.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-02.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-03.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-04.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-05.png" width="60" title="OrigamiArt ZheZhi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-06.png" width="60" title="OrigamiArt ZheZhi" /> |
 | `OrigamiArt` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-07.png" width="60" title="OrigamiArt" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/OrigamiArt-08.png" width="60" title="OrigamiArt" /> |

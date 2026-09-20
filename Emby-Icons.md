@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-19　｜　共 **762** 個圖標
+> 更新時間：2026-09-20　｜　共 **763** 個圖標
 
 ---
 
@@ -211,6 +211,7 @@
 | `Nijigen ErCiYuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NijigenEmby-01.png" width="60" title="Nijigen ErCiYuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NijigenEmby-02.png" width="60" title="Nijigen ErCiYuan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NijigenEmby-03.png" width="60" title="Nijigen ErCiYuan" /> |
 | `NiuBi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NiuBi-01.png" width="60" title="NiuBi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NiuBi-02.png" width="60" title="NiuBi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NiuBi-03.png" width="60" title="NiuBi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NiuBi-04.png" width="60" title="NiuBi" /> |
 | `NookReel` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NookReel.png" width="60" title="NookReel" /> |
+| `NovaHelix` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NovaHelix.png" width="60" title="NovaHelix" /> |
 | `NoxEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-01.png" width="60" title="NoxEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-02.png" width="60" title="NoxEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-03.png" width="60" title="NoxEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NoxEmby-04.png" width="60" title="NoxEmby" /> |
 | `NSFW` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NSFWEmby-01.png" width="60" title="NSFW" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NSFWEmby-02.png" width="60" title="NSFW" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NSFWEmby-03.png" width="60" title="NSFW" /> |
 | `NTRRR` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/NTRRR.png" width="60" title="NTRRR" /> |

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-21　｜　共 **763** 個圖標
+> 更新時間：2026-09-22　｜　共 **765** 個圖標
 
 ---
 
@@ -106,6 +106,7 @@
 | `FitiProOversea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProOversea.png" width="60" title="FitiProOversea" /> |
 | `FJY` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FJYEmby.png" width="60" title="FJY" /> |
 | `FuFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-01.png" width="60" title="FuFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-02.png" width="60" title="FuFu" /> |
+| `FunLand` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FunLand.png" width="60" title="FunLand" /> |
 | `FunToFun` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FunToFun.png" width="60" title="FunToFun" /> |
 | `FWorks` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-01.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-02.png" width="60" title="FWorks" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FWorksEmby-03.png" width="60" title="FWorks" /> |
 | `GeeTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-01.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-02.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-03.png" width="60" title="GeeTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GeeTV-04.png" width="60" title="GeeTV" /> |
@@ -276,6 +277,7 @@
 | `TanHuaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png" width="60" title="TanHuaTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-02.png" width="60" title="TanHuaTV" /> |
 | `TanHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-03.png" width="60" title="TanHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-04.png" width="60" title="TanHua" /> |
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |
+| `TeaBagEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TeaBagEmby.png" width="60" title="TeaBagEmby" /> |
 | `TeCar` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TeCar-01.png" width="60" title="TeCar" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TeCar-02.png" width="60" title="TeCar" /> |
 | `Temby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Temby.png" width="60" title="Temby" /> |
 | `Terminus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Terminus.png" width="60" title="Terminus" /> |

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-28　｜　共 **772** 個圖標
+> 更新時間：2026-09-29　｜　共 **774** 個圖標
 
 ---
 
@@ -146,6 +146,7 @@
 | `JMS Holivator JiaRiFeiXingJia` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JMS-01.png" width="60" title="JMS Holivator JiaRiFeiXingJia" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JMS-02.png" width="60" title="JMS Holivator JiaRiFeiXingJia" /> |
 | `July` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-01.png" width="60" title="July" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-02.png" width="60" title="July" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JulyEmby-03.png" width="60" title="July" /> |
 | `JuYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing-01.png" width="60" title="JuYing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing-02.png" width="60" title="JuYing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/JuYing.png" width="60" title="JuYing" /> |
+| `KFCEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCEmby-01.png" width="60" title="KFCEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCEmby-02.png" width="60" title="KFCEmby" /> |
 | `KFCV50` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-01.png" width="60" title="KFCV50" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-02.png" width="60" title="KFCV50" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KFCV50Emby-03.png" width="60" title="KFCV50" /> |
 | `Kiku` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-01.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-02.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-03.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-04.png" width="60" title="Kiku" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KikuEmby-05.png" width="60" title="Kiku" /> |
 | `KiTiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KiTiEmby-01.png" width="60" title="KiTiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/KiTiEmby-02.png" width="60" title="KiTiEmby" /> |

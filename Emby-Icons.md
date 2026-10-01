@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-09-30　｜　共 **775** 個圖標
+> 更新時間：2026-10-01　｜　共 **776** 個圖標
 
 ---
 
@@ -42,7 +42,7 @@
 | `AWATV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-01.png" width="60" title="AWATV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AWATV-02.png" width="60" title="AWATV" /> |
 | `AyanamiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-01.png" width="60" title="AyanamiEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AyanamiEmby-02.png" width="60" title="AyanamiEmby" /> |
 | `AytPlus` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AytPlus.png" width="60" title="AytPlus" /> |
-| `BaiHuaTheatre` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-01.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-02.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-03.png" width="60" title="BaiHuaTheatre" /> |
+| `BaiHuaTheatre` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-01.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-02.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-03.png" width="60" title="BaiHuaTheatre" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BaiHuaTheatre-04.png" width="60" title="BaiHuaTheatre" /> |
 | `Banana` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Banana.png" width="60" title="Banana" /> |
 | `BBFreeFilm BeeBI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBFreeFilm.png" width="60" title="BBFreeFilm BeeBI" /> |
 | `BBQAQEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/BBQAQEmby.png" width="60" title="BBQAQEmby" /> |

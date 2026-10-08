@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-10-07｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-10-08｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -725,6 +725,10 @@
         {
             "name": "Edge",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EdgeEmby.png"
+        },
+        {
+            "name": "EmberEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmberEmby.png"
         },
         {
             "name": "EmbyClub MaoXiong",

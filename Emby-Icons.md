@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-07　｜　共 **780** 個圖標
+> 更新時間：2026-10-08　｜　共 **781** 個圖標
 
 ---
 
@@ -86,6 +86,7 @@
 | `EBS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EBSEmby-01.png" width="60" title="EBS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EBSEmby-02.png" width="60" title="EBS" /> |
 | `EchoFlix` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-01.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-02.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-03.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-04.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-05.png" width="60" title="EchoFlix" /> |
 | `Edge` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EdgeEmby.png" width="60" title="Edge" /> |
+| `EmberEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmberEmby.png" width="60" title="EmberEmby" /> |
 | `EmbyClub MaoXiong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-01.png" width="60" title="EmbyClub MaoXiong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-02.png" width="60" title="EmbyClub MaoXiong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-03.png" width="60" title="EmbyClub MaoXiong" /> |
 | `EmbyPlus ZhiPianRen` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-01.png" width="60" title="EmbyPlus ZhiPianRen" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-02.png" width="60" title="EmbyPlus ZhiPianRen" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-03.png" width="60" title="EmbyPlus ZhiPianRen" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-04.png" width="60" title="EmbyPlus ZhiPianRen" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-05.png" width="60" title="EmbyPlus ZhiPianRen" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPlus-06.png" width="60" title="EmbyPlus ZhiPianRen" /> |
 | `EmbyPub ZhongDianZhan ZDZ` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyPub.png" width="60" title="EmbyPub ZhongDianZhan ZDZ" /> |

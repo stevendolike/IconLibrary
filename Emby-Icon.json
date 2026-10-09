@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-10-08｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-10-09｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -685,6 +685,14 @@
         {
             "name": "DreamWorks MengGongChang",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DreamWorks-09.png"
+        },
+        {
+            "name": "Drivemby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Drivemby-01.png"
+        },
+        {
+            "name": "Drivemby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Drivemby-02.png"
         },
         {
             "name": "Dusky",
@@ -1785,6 +1793,10 @@
         {
             "name": "MilkEmby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MilkEmby-02.png"
+        },
+        {
+            "name": "MilkEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/MilkEmby-03.png"
         },
         {
             "name": "MilkEmby",

@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-09　｜　共 **784** 個圖標
+> 更新時間：2026-10-10　｜　共 **786** 個圖標
 
 ---
 
@@ -102,6 +102,7 @@
 | `FeiYueCaiHong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-07.png" width="60" title="FeiYueCaiHong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-08.png" width="60" title="FeiYueCaiHong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueCaiHong-09.png" width="60" title="FeiYueCaiHong" /> |
 | `FeiYueYinHe` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-01.png" width="60" title="FeiYueYinHe" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe-02.png" width="60" title="FeiYueYinHe" /> |
 | `FeiYueYinHe YHEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FeiYueYinHe.png" width="60" title="FeiYueYinHe YHEmby" /> |
+| `FengHuoLun` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FengHuoLun.png" width="60" title="FengHuoLun" /> |
 | `Fiti` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Fiti.png" width="60" title="Fiti" /> |
 | `FitiPro` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiPro.png" width="60" title="FitiPro" /> |
 | `FitiProCDN` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProCDN.png" width="60" title="FitiProCDN" /> |
@@ -280,6 +281,7 @@
 | `StarSho` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StarSho.png" width="60" title="StarSho" /> |
 | `StevenEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/StevenEmby.png" width="60" title="StevenEmby" /> |
 | `SuiShiPaoLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SuiShiPaoLu-01.png" width="60" title="SuiShiPaoLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SuiShiPaoLu-02.png" width="60" title="SuiShiPaoLu" /> |
+| `SuiYing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/SuiYing.png" width="60" title="SuiYing" /> |
 | `TanHuaTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-01.png" width="60" title="TanHuaTV" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-02.png" width="60" title="TanHuaTV" /> |
 | `TanHua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-03.png" width="60" title="TanHua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TanhuaTV-04.png" width="60" title="TanHua" /> |
 | `Tdck QiDianZhan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-01.png" width="60" title="Tdck QiDianZhan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/TdckEmby-02.png" width="60" title="Tdck QiDianZhan" /> |

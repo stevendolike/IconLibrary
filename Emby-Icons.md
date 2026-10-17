@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-16　｜　共 **787** 個圖標
+> 更新時間：2026-10-17　｜　共 **788** 個圖標
 
 ---
 
@@ -321,6 +321,7 @@
 | `YeZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-01.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-02.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-03.png" width="60" title="YeZi" /> |
 | `YiHeTang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiHeTang.png" width="60" title="YiHeTang" /> |
 | `YiMeng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png" width="60" title="YiMeng" /> |
+| `YingQiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao.png" width="60" title="YingQiao" /> |
 | `YingYangKuaiXian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingYangKuaiXian.png" width="60" title="YingYangKuaiXian" /> |
 | `YinXingMaiMing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png" width="60" title="YinXingMaiMing" /> |
 | `YiShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiShang.png" width="60" title="YiShang" /> |

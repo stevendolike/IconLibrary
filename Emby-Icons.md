@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-17　｜　共 **788** 個圖標
+> 更新時間：2026-10-18　｜　共 **790** 個圖標
 
 ---
 
@@ -57,6 +57,7 @@
 | `CharonTV KaRong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-01.png" width="60" title="CharonTV KaRong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-02.png" width="60" title="CharonTV KaRong" /> |
 | `ChefsSecretMenu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChefsSecretMenu.png" width="60" title="ChefsSecretMenu" /> |
 | `ChenCheng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng-01.png" width="60" title="ChenCheng" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng-02.png" width="60" title="ChenCheng" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng.png" width="60" title="ChenCheng" /> |
+| `ChenYu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-01.png" width="60" title="ChenYu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-02.png" width="60" title="ChenYu" /> |
 | `Cherry YingTao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-01.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-02.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-03.png" width="60" title="Cherry YingTao" /> |
 | `ChilledMelon XiGua DaiGua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-01.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-02.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-03.png" width="60" title="ChilledMelon XiGua DaiGua" /> |
 | `Chong PornJerry Calorie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-01.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-02.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-03.png" width="60" title="Chong PornJerry Calorie" /> |

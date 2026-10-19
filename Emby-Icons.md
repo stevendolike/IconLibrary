@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-18　｜　共 **790** 個圖標
+> 更新時間：2026-10-19　｜　共 **793** 個圖標
 
 ---
 
@@ -57,7 +57,7 @@
 | `CharonTV KaRong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-01.png" width="60" title="CharonTV KaRong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/CharonTV-02.png" width="60" title="CharonTV KaRong" /> |
 | `ChefsSecretMenu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChefsSecretMenu.png" width="60" title="ChefsSecretMenu" /> |
 | `ChenCheng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng-01.png" width="60" title="ChenCheng" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng-02.png" width="60" title="ChenCheng" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng.png" width="60" title="ChenCheng" /> |
-| `ChenYu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-01.png" width="60" title="ChenYu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-02.png" width="60" title="ChenYu" /> |
+| `ChenYu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-01.png" width="60" title="ChenYu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-02.png" width="60" title="ChenYu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-03.png" width="60" title="ChenYu" /> |
 | `Cherry YingTao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-01.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-02.png" width="60" title="Cherry YingTao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Cherry-03.png" width="60" title="Cherry YingTao" /> |
 | `ChilledMelon XiGua DaiGua` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-01.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-02.png" width="60" title="ChilledMelon XiGua DaiGua" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChilledMelon-03.png" width="60" title="ChilledMelon XiGua DaiGua" /> |
 | `Chong PornJerry Calorie` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-01.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-02.png" width="60" title="Chong PornJerry Calorie" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChongPorn-03.png" width="60" title="Chong PornJerry Calorie" /> |
@@ -322,7 +322,7 @@
 | `YeZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-01.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-02.png" width="60" title="YeZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YeziEmby-03.png" width="60" title="YeZi" /> |
 | `YiHeTang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiHeTang.png" width="60" title="YiHeTang" /> |
 | `YiMeng` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png" width="60" title="YiMeng" /> |
-| `YingQiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao.png" width="60" title="YingQiao" /> |
+| `YingQiao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao-01.png" width="60" title="YingQiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao-02.png" width="60" title="YingQiao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao.png" width="60" title="YingQiao" /> |
 | `YingYangKuaiXian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingYangKuaiXian.png" width="60" title="YingYangKuaiXian" /> |
 | `YinXingMaiMing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YinXingMaiMing.png" width="60" title="YinXingMaiMing" /> |
 | `YiShang` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiShang.png" width="60" title="YiShang" /> |

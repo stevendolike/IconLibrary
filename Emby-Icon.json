@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-10-18｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-10-19｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -437,6 +437,10 @@
         {
             "name": "ChenYu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-02.png"
+        },
+        {
+            "name": "ChenYu",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-03.png"
         },
         {
             "name": "Cherry YingTao",
@@ -2961,6 +2965,14 @@
         {
             "name": "YiMeng",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiMeng.png"
+        },
+        {
+            "name": "YingQiao",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao-01.png"
+        },
+        {
+            "name": "YingQiao",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YingQiao-02.png"
         },
         {
             "name": "YingQiao",

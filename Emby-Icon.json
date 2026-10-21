@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-10-20｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-10-21｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -431,6 +431,14 @@
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenCheng.png"
         },
         {
+            "name": "ChenchengEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenchengEmby-01.png"
+        },
+        {
+            "name": "ChenchengEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenchengEmby-02.png"
+        },
+        {
             "name": "ChenYu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-01.png"
         },
@@ -441,6 +449,18 @@
         {
             "name": "ChenYu",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenYu-03.png"
+        },
+        {
+            "name": "ChenyuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenyuEmby-01.png"
+        },
+        {
+            "name": "ChenyuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenyuEmby-02.png"
+        },
+        {
+            "name": "ChenyuEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ChenyuEmby-03.png"
         },
         {
             "name": "Cherry YingTao",
@@ -937,6 +957,14 @@
         {
             "name": "FJY",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FJYEmby.png"
+        },
+        {
+            "name": "FreshippoEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-01.png"
+        },
+        {
+            "name": "FreshippoEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-02.png"
         },
         {
             "name": "FuFu",
@@ -2992,6 +3020,18 @@
         },
         {
             "name": "YiZhuQingTian",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian-01.png"
+        },
+        {
+            "name": "YiZhuQingTian",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian-02.png"
+        },
+        {
+            "name": "YiZhuQingTian",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian-03.png"
+        },
+        {
+            "name": "YiZhuQingTian",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YiZhuQingTian.png"
         },
         {
@@ -3081,6 +3121,14 @@
         {
             "name": "Yum",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YumEmby.png"
+        },
+        {
+            "name": "YunxiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YunxiEmby-01.png"
+        },
+        {
+            "name": "YunxiEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/YunxiEmby-02.png"
         },
         {
             "name": "YusenEmby",

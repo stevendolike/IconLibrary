@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-21　｜　共 **805** 個圖標
+> 更新時間：2026-10-22　｜　共 **807** 個圖標
 
 ---
 
@@ -88,7 +88,7 @@
 | `Dusky` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DuskyEmby.png" width="60" title="Dusky" /> |
 | `DVFilm DaV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/DVFilm.png" width="60" title="DVFilm DaV" /> |
 | `EBS` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EBSEmby-01.png" width="60" title="EBS" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EBSEmby-02.png" width="60" title="EBS" /> |
-| `EchoFlix` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-01.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-02.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-03.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-04.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-05.png" width="60" title="EchoFlix" /> |
+| `EchoFlix` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-01.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-02.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-03.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-04.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-05.png" width="60" title="EchoFlix" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EchoFlix-06.png" width="60" title="EchoFlix" /> |
 | `Edge` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EdgeEmby.png" width="60" title="Edge" /> |
 | `EmberEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmberEmby.png" width="60" title="EmberEmby" /> |
 | `EmbyClub MaoXiong` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-01.png" width="60" title="EmbyClub MaoXiong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-02.png" width="60" title="EmbyClub MaoXiong" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/EmbyClub-03.png" width="60" title="EmbyClub MaoXiong" /> |
@@ -111,7 +111,7 @@
 | `FitiProCDN` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProCDN.png" width="60" title="FitiProCDN" /> |
 | `FitiProOversea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FitiProOversea.png" width="60" title="FitiProOversea" /> |
 | `FJY` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FJYEmby.png" width="60" title="FJY" /> |
-| `FreshippoEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-01.png" width="60" title="FreshippoEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-02.png" width="60" title="FreshippoEmby" /> |
+| `FreshippoEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-01.png" width="60" title="FreshippoEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-02.png" width="60" title="FreshippoEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FreshippoEmby-03.png" width="60" title="FreshippoEmby" /> |
 | `FuFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-01.png" width="60" title="FuFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FufuEmby-02.png" width="60" title="FuFu" /> |
 | `FunLand` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FunLand.png" width="60" title="FunLand" /> |
 | `FunToFun` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/FunToFun.png" width="60" title="FunToFun" /> |

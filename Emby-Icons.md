@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-10-27　｜　共 **807** 個圖標
+> 更新時間：2026-10-28　｜　共 **808** 個圖標
 
 ---
 
@@ -22,6 +22,7 @@
 | `RottenTomatoes` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Fresh.png" width="60" title="RottenTomatoes Fresh" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_Rotten.png" width="60" title="RottenTomatoes Rotten" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_PositiveAudience.png" width="60" title="RottenTomatoes PositiveAudience" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/RottenTomatoes_NegativeAudience.png" width="60" title="RottenTomatoes NegativeAudience" /> |
 | `105° Ciallo` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-01.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-02.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-03.png" width="60" title="105° Ciallo" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/105-04.png" width="60" title="105° Ciallo" /> |
 | `404NotFound` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-01.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-02.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-03.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-04.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-05.png" width="60" title="404NotFound" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/404NotFound-06.png" width="60" title="404NotFound" /> |
+| `9527Emby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/9527Emby.png" width="60" title="9527Emby" /> |
 | `AiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AiEmby.png" width="60" title="AiEmby" /> |
 | `Aladdin ALaDing` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-01.png" width="60" title="Aladdin ALaDing" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AladdinEmby-02.png" width="60" title="Aladdin ALaDing" /> |
 | `ALittleTea` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/ALittleTea.png" width="60" title="ALittleTea" /> |

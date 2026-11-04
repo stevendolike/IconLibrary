@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-11-03　｜　共 **813** 個圖標
+> 更新時間：2026-11-04　｜　共 **814** 個圖標
 
 ---
 
@@ -127,6 +127,7 @@
 | `GuabiTV` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuabiTV.png" width="60" title="GuabiTV" /> |
 | `GUAI` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-01.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-02.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-03.png" width="60" title="GUAI" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-04.png" width="60" title="GUAI" /> |
 | `GuaiEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuaiEmby-05.png" width="60" title="GuaiEmby" /> |
+| `GuangyingEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuangyingEmby.png" width="60" title="GuangyingEmby" /> |
 | `GuiXianWu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-01.png" width="60" title="GuiXianWu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/GuiXianWu-02.png" width="60" title="GuiXianWu" /> |
 | `HaiRiWan HaiRiBay` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HaiRiBay-01.png" width="60" title="HaiRiWan HaiRiBay" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HaiRiBay-02.png" width="60" title="HaiRiWan HaiRiBay" /> |
 | `HanDou` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-01.png" width="60" title="HanDou" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-02.png" width="60" title="HanDou" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-03.png" width="60" title="HanDou" /> |

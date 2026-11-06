@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-11-05　｜　共 **814** 個圖標
+> 更新時間：2026-11-06　｜　共 **815** 個圖標
 
 ---
 
@@ -246,6 +246,7 @@
 | `PaoLu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PaoluEmby-01.png" width="60" title="PaoLu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PaoluEmby-02.png" width="60" title="PaoLu" /> |
 | `Paul` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Paul.png" width="60" title="Paul" /> |
 | `Peach TaoZi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-01.png" width="60" title="Peach TaoZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-02.png" width="60" title="Peach TaoZi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeachEmby-03.png" width="60" title="Peach TaoZi" /> |
+| `PeekpeekEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PeekpeekEmby.png" width="60" title="PeekpeekEmby" /> |
 | `PiliPili` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-01.png" width="60" title="PiliPili" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-02.png" width="60" title="PiliPili" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-03.png" width="60" title="PiliPili" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-04.png" width="60" title="PiliPili" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-05.png" width="60" title="PiliPili" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PiliPili-06.png" width="60" title="PiliPili" /> |
 | `PinHaoFu` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Pinhaofu-01.png" width="60" title="PinHaoFu" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Pinhaofu-02.png" width="60" title="PinHaoFu" /> |
 | `PlayZ` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PlayzEmby-01.png" width="60" title="PlayZ" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/PlayzEmby-02.png" width="60" title="PlayZ" /> |

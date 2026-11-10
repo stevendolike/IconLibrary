@@ -1,6 +1,6 @@
 {
     "name": "Emby图标库",
-    "description": "stevendolike｜更新时间：2026-11-09｜部分图标来源于 sooyaaabo/IconLibrary",
+    "description": "stevendolike｜更新时间：2026-11-10｜部分图标来源于 sooyaaabo/IconLibrary",
     "icons": [
         {
             "name": "AList",
@@ -129,6 +129,10 @@
         {
             "name": "9527Emby",
             "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/9527Emby.png"
+        },
+        {
+            "name": "AetrixEmby",
+            "url": "https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/AetrixEmby.png"
         },
         {
             "name": "AiEmby",

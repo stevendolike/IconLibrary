@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-11-13　｜　共 **818** 個圖標
+> 更新時間：2026-11-14　｜　共 **819** 個圖標
 
 ---
 
@@ -134,6 +134,7 @@
 | `HaiRiWan HaiRiBay` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HaiRiBay-01.png" width="60" title="HaiRiWan HaiRiBay" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HaiRiBay-02.png" width="60" title="HaiRiWan HaiRiBay" /> |
 | `HanDou` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-01.png" width="60" title="HanDou" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-02.png" width="60" title="HanDou" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HandouEmby-03.png" width="60" title="HanDou" /> |
 | `HardMoon YingYue` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HardMoon.png" width="60" title="HardMoon YingYue" /> |
+| `HehuanEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HehuanEmby.png" width="60" title="HehuanEmby" /> |
 | `HelloBlock Ryan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-01.png" width="60" title="HelloBlock Ryan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-02.png" width="60" title="HelloBlock Ryan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-03.png" width="60" title="HelloBlock Ryan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-04.png" width="60" title="HelloBlock Ryan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-05.png" width="60" title="HelloBlock Ryan" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloBlock-06.png" width="60" title="HelloBlock Ryan" /> |
 | `Hello NiHao` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-01.png" width="60" title="Hello NiHao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-02.png" width="60" title="Hello NiHao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-03.png" width="60" title="Hello NiHao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-04.png" width="60" title="Hello NiHao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-05.png" width="60" title="Hello NiHao" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HelloEmby-06.png" width="60" title="Hello NiHao" /> |
 | `HG` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/HGEmby.png" width="60" title="HG" /> |

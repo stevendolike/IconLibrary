@@ -1,6 +1,6 @@
 # Emby Icon Gallery
 
-> 更新時間：2026-11-24　｜　共 **826** 個圖標
+> 更新時間：2026-11-25　｜　共 **827** 個圖標
 
 ---
 
@@ -326,6 +326,7 @@
 | `W` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WEmby-01.png" width="60" title="W" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WEmby-02.png" width="60" title="W" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WEmby-03.png" width="60" title="W" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WEmby-04.png" width="60" title="W" /> |
 | `WenJian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Wenjian-01.png" width="60" title="WenJian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Wenjian-02.png" width="60" title="WenJian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Wenjian-03.png" width="60" title="WenJian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Wenjian-04.png" width="60" title="WenJian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/Wenjian-05.png" width="60" title="WenJian" /> |
 | `WorldLine ShouShuShiJieXian` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WorldLine-01.png" width="60" title="WorldLine ShouShuShiJieXian" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/WorldLine-02.png" width="60" title="WorldLine ShouShuShiJieXian" /> |
+| `XiaolaEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaolaEmby.png" width="60" title="XiaolaEmby" /> |
 | `XiaoXiaMi` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-01.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-02.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-03.png" width="60" title="XiaoXiaMi" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoXiaMi-04.png" width="60" title="XiaoXiaMi" /> |
 | `XiaoZhuXuan` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiaoZhuXuan.png" width="60" title="XiaoZhuXuan" /> |
 | `XiatianEmby` | <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-01.png" width="60" title="XiatianEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-02.png" width="60" title="XiatianEmby" /> <img src="https://raw.githubusercontent.com/stevendolike/IconLibrary/main/Emby/XiatianEmby-03.png" width="60" title="XiatianEmby" /> |
